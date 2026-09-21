@@ -169,6 +169,57 @@ LSA.Store = (function () {
     });
   }
 
+  /* ---------- Copia de seguridad (exportar / importar) ---------- */
+  function blobToBase64(blob) {
+    return new Promise((resolve, reject) => {
+      const r = new FileReader();
+      r.onload = () => resolve(String(r.result).split(',')[1] || '');
+      r.onerror = () => reject(r.error);
+      r.readAsDataURL(blob);
+    });
+  }
+  function base64ToBlob(b64, type) {
+    const bin = atob(b64);
+    const arr = new Uint8Array(bin.length);
+    for (let i = 0; i < bin.length; i++) arr[i] = bin.charCodeAt(i);
+    return new Blob([arr], { type: type || 'application/octet-stream' });
+  }
+
+  // Genera un objeto serializable con todas las señas (media → base64).
+  async function exportData() {
+    const signs = await LSA.DB.getAllSigns();
+    const out = [];
+    for (const s of signs) {
+      let media = null;
+      if (s.media && s.media.blob) {
+        media = { type: s.media.type, name: s.media.name, data: await blobToBase64(s.media.blob) };
+      }
+      out.push(Object.assign({}, s, { media }));
+    }
+    return { app: 'cuaderno-lsa', version: 1, exportedAt: Date.now(),
+      categories: state.categories.slice(), signs: out };
+  }
+
+  // Importa una copia. Combina por id: si el id ya existe lo reemplaza,
+  // si es nuevo lo agrega (no genera duplicados al reimportar el mismo archivo).
+  async function importData(payload) {
+    if (!payload || !Array.isArray(payload.signs)) {
+      throw new Error('El archivo no es una copia válida de Cuaderno LSA.');
+    }
+    if (Array.isArray(payload.categories)) {
+      for (const c of payload.categories) await ensureCategory(c);
+    }
+    const signs = payload.signs.map((s) => Object.assign({}, s, {
+      media: (s.media && s.media.data)
+        ? { type: s.media.type, name: s.media.name, blob: base64ToBlob(s.media.data, s.media.type) }
+        : null,
+    }));
+    signs.forEach((s) => revokeURL(s.id));
+    await LSA.DB.bulkPut(signs);
+    await refresh();
+    return signs.length;
+  }
+
   function stats() {
     const classes = getClasses();
     const last = state.signs.length
@@ -189,5 +240,6 @@ LSA.Store = (function () {
     addSign, updateSign, removeSign, getSign,
     addCategory, getCategoriesInUse, getClasses, groupByClass,
     query, stats,
+    exportData, importData,
   };
 })();

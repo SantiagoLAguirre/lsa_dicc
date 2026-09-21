@@ -87,6 +87,15 @@ main { max-width: 1120px; margin: 0 auto; padding: 28px 20px 80px; }
 .stat__num { display: block; font-size: 1.9rem; font-weight: 700; letter-spacing: -.02em; }
 .stat__lbl { color: var(--muted); font-size: .88rem; }
 
+/* ---------- Copia de seguridad ---------- */
+.backup {
+  margin-top: 32px; background: var(--paper); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 18px 20px; box-shadow: var(--shadow);
+  display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap;
+}
+.backup__text p { margin: 4px 0 0; font-size: .88rem; max-width: 520px; }
+.backup__actions { display: flex; gap: 10px; flex-wrap: wrap; }
+
 /* ---------- Cuadrícula de tarjetas ---------- */
 .grid {
   display: grid; gap: 18px;
@@ -211,4 +220,5 @@ textarea.input { resize: vertical; }
   .detail__list { grid-template-columns: 1fr; gap: 2px 0; }
   .detail__list dt { margin-top: 8px; }
   .page-head h1 { font-size: 1.4rem; }
+  .backup { flex-direction: column; align-items: flex-start; }
 }

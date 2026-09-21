@@ -143,6 +143,14 @@ LSA.App = (function () {
         else if (action === 'cancel-form') { editingId = null; history.back(); }
         else if (action === 'close-modal') { closeModal(); }
         else if (action === 'clear-filters') { dicFilters = {}; render(); }
+        else if (action === 'export') {
+          try { await LSA.Backup.exportToFile(); }
+          catch (err) { alert('No se pudo exportar: ' + err.message); }
+        }
+        else if (action === 'import') {
+          const input = document.getElementById('import-file');
+          if (input) input.click();
+        }
         else if (action === 'edit-sign') {
           editingId = actionEl.dataset.id; closeModal(); location.hash = '#/agregar';
           if (currentRoute() === 'agregar') render();
@@ -180,12 +188,28 @@ LSA.App = (function () {
     document.body.addEventListener('change', (e) => {
       if (e.target.name === 'media') previewMedia(e.target);
       if (['f-cat', 'f-class', 'f-desde', 'f-hasta'].includes(e.target.id)) updateDicResults();
+      if (e.target.id === 'import-file') handleImportFile(e.target);
     });
     document.body.addEventListener('input', (e) => {
       if (e.target.id === 'f-text') updateDicResults(); // búsqueda instantánea
     });
 
     window.addEventListener('hashchange', () => { editingId = editingId; render(); });
+  }
+
+  /* ---------- Importación de copia de seguridad ---------- */
+  async function handleImportFile(input) {
+    const file = input.files[0];
+    if (!file) return;
+    try {
+      const count = await LSA.Backup.importFromFile(file);
+      alert('Copia importada: ' + count + ' seña(s). Tus datos ya están disponibles.');
+      render();
+    } catch (err) {
+      alert('No se pudo importar el archivo: ' + err.message);
+    } finally {
+      input.value = ''; // permite reimportar el mismo archivo
+    }
   }
 
   /* ---------- Arranque ---------- */

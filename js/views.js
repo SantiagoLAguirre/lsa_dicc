@@ -36,6 +36,18 @@ LSA.Views = (function () {
 
       <h2 class="section-title">Últimas señas agregadas</h2>
       ${R().grid(st.recientes)}
+
+      <div class="backup">
+        <div class="backup__text">
+          <strong>Copia de seguridad</strong>
+          <p class="muted">Tus señas se guardan en este dispositivo. Exportá una copia para llevarla a otra computadora o celular, e importála allí.</p>
+        </div>
+        <div class="backup__actions">
+          <button class="btn" data-action="export">⬇ Exportar copia</button>
+          <button class="btn" data-action="import">⬆ Importar copia</button>
+          <input type="file" id="import-file" accept="application/json,.json" hidden>
+        </div>
+      </div>
     </section>`;
   }
 
