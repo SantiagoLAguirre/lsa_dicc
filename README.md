@@ -109,6 +109,26 @@ Cada seña tiene un identificador único y esta forma:
 }
 ```
 
+## Copia de seguridad y uso en varios dispositivos
+
+Los datos viven en el navegador de cada dispositivo (IndexedDB), por lo que **no
+se sincronizan solos** entre computadoras o celulares. Para llevar tus señas de
+un dispositivo a otro usá la copia de seguridad, en la pantalla **Inicio**:
+
+1. En el dispositivo con tus datos: **Inicio → Exportar copia**. Se descarga un
+   archivo `lsa-copia-AAAA-MM-DD...json` que contiene todas las señas, sus
+   videos/GIF y las categorías.
+2. Pasá ese archivo al otro dispositivo (mail, nube, USB, etc.).
+3. En el otro dispositivo, abrí la app y hacé **Inicio → Importar copia**, elegí
+   el archivo. Tus señas aparecen al instante.
+
+La importación combina por identificador: si volvés a importar el mismo archivo
+no se generan duplicados. Conviené exportar una copia cada tanto como respaldo.
+
+> ¿Querés sincronización automática en la nube? Eso requiere agregar un servicio
+> externo (por ejemplo Firebase o Supabase) con inicio de sesión; es un proyecto
+> mayor. La copia de seguridad cubre el caso de uso personal sin costo ni cuentas.
+
 ## Consejos de uso
 
 - Para agregar una seña: **Agregar seña → completás el formulario → subís el
