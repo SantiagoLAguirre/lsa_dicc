@@ -217,8 +217,10 @@ LSA.App = (function () {
     root = document.getElementById('app');
     modal = document.getElementById('modal');
     await LSA.DB.open();
-    await LSA.Seed.run();
     await S().init();
+    await LSA.Remote.sync(); // sincroniza con el diccionario publicado en el sitio
+    await LSA.Seed.run();
+    await S().refresh(); // por si Seed agregó señas tras la carga inicial
     bindEvents();
     if (!location.hash) location.hash = '#/inicio';
     render();

@@ -1,0 +1,3087 @@
+{
+  "app": "cuaderno-lsa",
+  "version": 1,
+  "exportedAt": 1794284282668,
+  "categories": [
+    "Adjetivos",
+    "Colores",
+    "Emociones",
+    "Estado civil",
+    "Expresiones",
+    "Familia",
+    "Información",
+    "Letras",
+    "Lugares",
+    "Números",
+    "Objetos",
+    "Otros",
+    "Personas",
+    "Preguntas",
+    "Profesión",
+    "Saludos",
+    "Tiempo",
+    "Verbos"
+  ],
+  "signs": [
+    {
+      "id": "s_muaz64i4_k6ttur",
+      "nombre": "Días de la semana",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "Parte 1: \"Día\"\n\nC (Configuración): Dedo índice extendido, el resto de los dedos cerrados.\n\nO (Orientación): Palma orientada hacia el costado (hacia la cara).\n\nU (Ubicación): Mejilla (el lateral del dedo índice toma contacto con el rostro).\n\nM (Movimiento): GOLPETEO (movimiento corto que se detiene al tomar contacto con la mejilla y se repite).\n\nEF/CNM: Neutra.\n\nParte 2: \"Semana\"\n\nC (Configuración): Mano activa con dedo índice extendido (el resto cerrados). Mano pasiva plana, con todos los dedos extendidos y juntos.\n\nO (Orientación): Mano activa con palma hacia el costado. Mano pasiva con palma hacia arriba.\n\nU (Ubicación): Espacio neutro (frente al pecho).\n\nM (Movimiento): FROTACIÓN en dirección LINEAL (el dedo índice activo realiza un contacto progresivo deslizándose sobre la palma de la mano pasiva, desde el talón de la mano hasta la punta de los dedos).\n\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 3",
+      "media": {
+        "type": "image/gif",
+        "name": "diasdelasemana.gif",
+        "url": "media/s_muaz64i4_k6ttur.gif"
+      },
+      "createdAt": 1789978814284,
+      "updatedAt": 1789978814284
+    },
+    {
+      "id": "s_muazgy4l_8bm03z",
+      "nombre": "Lunes",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedo índice y pulgar extendidos formando un ángulo recto (forma de \"L\"), el resto de los dedos cerrados.\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Mejilla (la yema o el lateral del dedo pulgar toma contacto con el rostro).\nM (Movimiento): ROTACIÓN (la mano hace un giro corto sobre el eje de la muñeca, de adelante hacia atrás, generalmente repetido).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 3",
+      "media": {
+        "type": "image/gif",
+        "name": "lunes.gif",
+        "url": "media/s_muazgy4l_8bm03z.gif"
+      },
+      "createdAt": 1789979319237,
+      "updatedAt": 1789979319237
+    },
+    {
+      "id": "s_muazj4wi_k4og0h",
+      "nombre": "Martes",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedos índice, medio y anular extendidos y apuntando hacia abajo, con el pulgar cruzado por debajo (configuración de la letra \"M\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Mejilla (el lateral del dedo índice toma contacto o se ubica muy cerca del rostro).\nM (Movimiento): ROTACIÓN (la mano hace un giro corto sobre su eje, de adelante hacia atrás, generalmente repetido).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 3",
+      "media": {
+        "type": "image/gif",
+        "name": "martes.gif",
+        "url": "media/s_muazj4wi_k4og0h.gif"
+      },
+      "createdAt": 1789979421330,
+      "updatedAt": 1789979421330
+    },
+    {
+      "id": "s_muazklan_ep4t1u",
+      "nombre": "Miércoles",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedos índice, medio y anular extendidos y apuntando hacia abajo, con el pulgar cruzado por debajo (configuración de la letra \"M\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Mejilla (el lateral del dedo índice cerca o en contacto con el rostro).\nM (Movimiento): GOLPETEO (movimiento corto que se detiene al tomar contacto con la mejilla y se repite, para diferenciarlo de la rotación del día martes) o LINEAL (en algunas variantes, un movimiento corto hacia abajo rozando la mejilla).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 3",
+      "media": {
+        "type": "image/gif",
+        "name": "miercoles.gif",
+        "url": "media/s_muazklan_ep4t1u.gif"
+      },
+      "createdAt": 1789979489231,
+      "updatedAt": 1789979489231
+    },
+    {
+      "id": "s_muazngkc_1k7q84",
+      "nombre": "Jueves",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedo meñique extendido, el resto de los dedos cerrados (configuración de la letra \"J\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Mejilla (el dedo meñique o el lateral de la mano se ubica cerca o en contacto con el rostro).\nM (Movimiento): ROTACIÓN (la mano hace un giro corto sobre su eje, de adelante hacia atrás, generalmente repetido).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 3",
+      "media": {
+        "type": "image/gif",
+        "name": "jueves.gif",
+        "url": "media/s_muazngkc_1k7q84.gif"
+      },
+      "createdAt": 1789979623068,
+      "updatedAt": 1789979623068
+    },
+    {
+      "id": "s_muazoq8i_2gnv7t",
+      "nombre": "Viernes",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedos índice y medio extendidos y separados formando una \"V\", el resto de los dedos cerrados (configuración de la letra \"V\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Mejilla (el lateral del dedo índice o la mano se ubica cerca o en contacto con el rostro).\nM (Movimiento): ROTACIÓN (la mano hace un giro corto sobre su eje, de adelante hacia atrás, generalmente repetido).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 3",
+      "media": {
+        "type": "image/gif",
+        "name": "viernes.gif",
+        "url": "media/s_muazoq8i_2gnv7t.gif"
+      },
+      "createdAt": 1789979682258,
+      "updatedAt": 1789979682258
+    },
+    {
+      "id": "s_muazqo2v_8l53de",
+      "nombre": "Sábado",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Mano cerrada en puño con el pulgar cruzado por delante apoyado sobre los dedos (configuración de la letra \"S\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Mejilla (el lateral del puño se ubica cerca o en contacto con el rostro).\nM (Movimiento): ROTACIÓN (la mano hace un giro corto sobre su eje, de adelante hacia atrás, repetido) o GOLPETEO (contacto repetido y corto sobre la mejilla, dependiendo de la variante).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 3",
+      "media": {
+        "type": "image/gif",
+        "name": "sabado.gif",
+        "url": "media/s_muazqo2v_8l53de.gif"
+      },
+      "createdAt": 1789979772775,
+      "updatedAt": 1789979772775
+    },
+    {
+      "id": "s_muazrovx_m5u9j4",
+      "nombre": "Domingo",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedo índice extendido, el pulgar se une con la yema del resto de los dedos formando un círculo (configuración de la letra \"D\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Frente o sien (el lateral de la mano o el dedo índice se ubica cerca o en contacto con esta zona superior del rostro).\nM (Movimiento): ROTACIÓN (la mano hace un giro corto sobre su eje, de adelante hacia atrás, generalmente repetido).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 3",
+      "media": {
+        "type": "image/gif",
+        "name": "domingo.gif",
+        "url": "media/s_muazrovx_m5u9j4.gif"
+      },
+      "createdAt": 1789979820477,
+      "updatedAt": 1789979820477
+    },
+    {
+      "id": "s_mub0dg4q_w9povm",
+      "nombre": "Mes",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Mano activa con el dedo índice extendido (resto de los dedos cerrados). Mano pasiva plana, con todos los dedos extendidos y juntos.\nO (Orientación): Mano activa con la palma hacia el cuerpo o levemente hacia el costado. Mano pasiva con la palma orientada hacia el costado opuesto (enfrentando a la mano activa) y los dedos apuntando hacia arriba.\nU (Ubicación): Espacio neutro (frente al pecho).\nM (Movimiento): FROTACIÓN en dirección LINEAL (el lateral o la yema del dedo índice de la mano activa realiza un contacto progresivo deslizándose hacia abajo sobre la palma de la mano pasiva, desde la punta de los dedos hasta el talón de la mano).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 3",
+      "media": {
+        "type": "image/gif",
+        "name": "mes.gif",
+        "url": "media/s_mub0dg4q_w9povm.gif"
+      },
+      "createdAt": 1789980835562,
+      "updatedAt": 1789980835562
+    },
+    {
+      "id": "s_mub0eq7n_xzrmrd",
+      "nombre": "Enero",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedos flexionados (índice, medio, anular y meñique) apoyándose sobre el pulgar flexionado, formando un bloque (configuración de la letra \"E\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): OSCILATORIO (movimiento corto y repetido de lado a lado).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 3",
+      "media": {
+        "type": "image/gif",
+        "name": "enero.gif",
+        "url": "media/s_mub0eq7n_xzrmrd.gif"
+      },
+      "createdAt": 1789980895283,
+      "updatedAt": 1789980895283
+    },
+    {
+      "id": "s_mub0gsiq_sml533",
+      "nombre": "Febrero",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedo índice y pulgar unidos por las yemas formando un círculo, el resto de los dedos extendidos y separados (configuración de la letra \"F\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): OSCILATORIO (movimiento corto y repetido de lado a lado).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "https://youtu.be/BJ5DNlcxoGU?si=S45_z3idEMOVtyy8",
+      "media": {
+        "type": "image/gif",
+        "name": "febrero.gif",
+        "url": "media/s_mub0gsiq_sml533.gif"
+      },
+      "createdAt": 1789980991586,
+      "updatedAt": 1789980991586
+    },
+    {
+      "id": "s_mub0p4zk_kwziy8",
+      "nombre": "Marzo",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedos índice, medio y anular extendidos y apuntando hacia abajo, pulgar cruzado por debajo (configuración de la letra \"M\").\nO (Orientación): Palma orientada hacia el cuerpo o levemente hacia el costado.\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): OSCILATORIO (movimiento corto y repetido de lado a lado).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "https://youtu.be/BJ5DNlcxoGU?si=S45_z3idEMOVtyy8",
+      "media": {
+        "type": "image/gif",
+        "name": "marzo.gif",
+        "url": "media/s_mub0p4zk_kwziy8.gif"
+      },
+      "createdAt": 1789981380992,
+      "updatedAt": 1789981380992
+    },
+    {
+      "id": "s_mub0pzro_5ieo1y",
+      "nombre": "Abril",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Mano cerrada en forma de puño, con el dedo pulgar apoyado sobre el lateral del dedo índice (configuración de la letra \"A\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): OSCILATORIO (movimiento corto y repetido de lado a lado).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "https://youtu.be/BJ5DNlcxoGU?si=S45_z3idEMOVtyy8",
+      "media": {
+        "type": "image/gif",
+        "name": "abril.gif",
+        "url": "media/s_mub0pzro_5ieo1y.gif"
+      },
+      "createdAt": 1789981420884,
+      "updatedAt": 1789981420884
+    },
+    {
+      "id": "s_mub0qq6s_r6mdtn",
+      "nombre": "Mayo",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedos índice, medio y anular extendidos y apuntando hacia abajo, pulgar cruzado por debajo (configuración de la letra \"M\").\nO (Orientación): Palma orientada hacia el cuerpo.\nU (Ubicación): Pecho (generalmente del lado izquierdo, a la altura del corazón, haciendo alusión a la escarapela por la Revolución de Mayo) o espacio neutro.\nM (Movimiento): GOLPETEO (movimiento corto que se detiene al tomar contacto con el pecho y se repite) o CIRCULAR (si se realiza en el espacio neutro, para diferenciarlo del mes de marzo).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "https://youtu.be/BJ5DNlcxoGU?si=S45_z3idEMOVtyy8",
+      "media": {
+        "type": "image/gif",
+        "name": "mayo.gif",
+        "url": "media/s_mub0qq6s_r6mdtn.gif"
+      },
+      "createdAt": 1789981455124,
+      "updatedAt": 1789981455124
+    },
+    {
+      "id": "s_mub0rh7y_ef0b0l",
+      "nombre": "Junio",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedo meñique extendido, el resto de los dedos cerrados (configuración de la letra \"J\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): OSCILATORIO (movimiento corto y repetido de lado a lado).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "https://youtu.be/BJ5DNlcxoGU?si=S45_z3idEMOVtyy8",
+      "media": {
+        "type": "image/gif",
+        "name": "junio.gif",
+        "url": "media/s_mub0rh7y_ef0b0l.gif"
+      },
+      "createdAt": 1789981490158,
+      "updatedAt": 1789981490158
+    },
+    {
+      "id": "s_mub0s28f_v8m9er",
+      "nombre": "Julio",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedo meñique extendido, el resto de los dedos cerrados (configuración de la letra \"J\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): LINEAL (movimiento recto hacia abajo, para diferenciarlo de la oscilación del mes de junio).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "https://youtu.be/BJ5DNlcxoGU?si=S45_z3idEMOVtyy8",
+      "media": {
+        "type": "image/gif",
+        "name": "julio.gif",
+        "url": "media/s_mub0s28f_v8m9er.gif"
+      },
+      "createdAt": 1789981517391,
+      "updatedAt": 1789981517391
+    },
+    {
+      "id": "s_mub0uh39_sbb1ue",
+      "nombre": "Agosto",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Mano cerrada en forma de puño, con el dedo pulgar apoyado sobre el lateral del dedo índice (configuración de la letra \"A\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): LINEAL (movimiento recto hacia abajo, generalmente para diferenciarlo de la oscilación del mes de abril).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "https://youtu.be/BJ5DNlcxoGU?si=S45_z3idEMOVtyy8",
+      "media": {
+        "type": "image/gif",
+        "name": "agosto_c.gif",
+        "url": "media/s_mub0uh39_sbb1ue.gif"
+      },
+      "createdAt": 1789981629957,
+      "updatedAt": 1789981629957
+    },
+    {
+      "id": "s_mub0v1ge_ysavps",
+      "nombre": "Septiembre",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Mano cerrada en puño con el pulgar cruzado por delante, apoyado sobre los dedos (configuración de la letra \"S\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): OSCILATORIO (movimiento corto y repetido de lado a lado).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "https://youtu.be/BJ5DNlcxoGU?si=S45_z3idEMOVtyy8",
+      "media": {
+        "type": "image/gif",
+        "name": "sep.gif",
+        "url": "media/s_mub0v1ge_ysavps.gif"
+      },
+      "createdAt": 1789981656350,
+      "updatedAt": 1789981656350
+    },
+    {
+      "id": "s_mub0vyo5_myk2g8",
+      "nombre": "Octubre",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Todos los dedos curvados uniéndose en las yemas con el pulgar, formando un círculo cerrado (configuración de la letra \"O\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): OSCILATORIO (movimiento corto y repetido de lado a lado).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "https://youtu.be/BJ5DNlcxoGU?si=S45_z3idEMOVtyy8",
+      "media": {
+        "type": "image/gif",
+        "name": "octubre.gif",
+        "url": "media/s_mub0vyo5_myk2g8.gif"
+      },
+      "createdAt": 1789981699397,
+      "updatedAt": 1789981699397
+    },
+    {
+      "id": "s_mub0wqtf_qqxukf",
+      "nombre": "Noviembre",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedos índice y medio extendidos apuntando hacia abajo, resto cerrados (configuración de la letra \"N\").\nO (Orientación): Palma orientada hacia el cuerpo.\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): OSCILATORIO (movimiento corto y repetido de lado a lado).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "https://youtu.be/BJ5DNlcxoGU?si=S45_z3idEMOVtyy8",
+      "media": {
+        "type": "image/gif",
+        "name": "noviembre.gif",
+        "url": "media/s_mub0wqtf_qqxukf.gif"
+      },
+      "createdAt": 1789981735875,
+      "updatedAt": 1789981735875
+    },
+    {
+      "id": "s_mub0xc8e_d2jql1",
+      "nombre": "Diciembre",
+      "categoria": "Tiempo",
+      "clase": "Clase 3",
+      "fecha": "2026-09-07",
+      "descripcion": "C (Configuración): Dedo índice extendido, el pulgar se une con la yema del dedo medio, anular y meñique formando un círculo (configuración de la letra \"D\").\nO (Orientación): Palma orientada hacia el frente o levemente hacia el costado.\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): OSCILATORIO (movimiento corto y repetido de lado a lado).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "https://youtu.be/BJ5DNlcxoGU?si=S45_z3idEMOVtyy8",
+      "media": {
+        "type": "image/gif",
+        "name": "dic.gif",
+        "url": "media/s_mub0xc8e_d2jql1.gif"
+      },
+      "createdAt": 1789981763630,
+      "updatedAt": 1789981763630
+    },
+    {
+      "id": "s_mub3ewb3_bwcdo7",
+      "nombre": "Abecedario",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Secuencia fluida de las letras A, B y C. Comienza con la mano en puño y pulgar al costado (A), cambia a mano plana con pulgar apoyado en la palma (B), y termina con la mano curvada formando un arco (C).\nO (Orientación): Palma orientada hacia el frente en las dos primeras configuraciones (A y B), cambiando levemente hacia el costado en la última (C).\nU (Ubicación): Espacio neutro (a la altura del pecho o del hombro).\nM (Movimiento): DESPLAZAMIENTO (la mano se traslada hacia el lateral externo del cuerpo de forma fluida y continua mientras va cambiando de una configuración a otra).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/gif",
+        "name": "abecedario.gif",
+        "url": "media/s_mub3ewb3_bwcdo7.gif"
+      },
+      "createdAt": 1789985942031,
+      "updatedAt": 1789985942031
+    },
+    {
+      "id": "s_mub3gqcb_qmsgd3",
+      "nombre": "A",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Mano cerrada en forma de puño, con el dedo pulgar apoyado sobre el lateral del dedo índice.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_071951755.png",
+        "url": "media/s_mub3gqcb_qmsgd3.png"
+      },
+      "createdAt": 1789986027611,
+      "updatedAt": 1789986027611
+    },
+    {
+      "id": "s_mub3hw3r_5s37ok",
+      "nombre": "B",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Mano plana, todos los dedos extendidos y juntos, con el dedo pulgar flexionado hacia adentro (apoyado sobre la palma).\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_072059783.png",
+        "url": "media/s_mub3hw3r_5s37ok.png"
+      },
+      "createdAt": 1789986081735,
+      "updatedAt": 1789986081735
+    },
+    {
+      "id": "s_mub3jeq4_qr5u5z",
+      "nombre": "C",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Mano curvada formando un arco, con los dedos (índice, medio, anular y meñique) juntos y flexionados, oponiéndose al dedo pulgar para dibujar la forma de la letra.\nO (Orientación): Palma orientada hacia el costado (hacia el cuerpo), mostrando el perfil o hueco de la \"C\" hacia el frente.\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_072218956.png",
+        "url": "media/s_mub3jeq4_qr5u5z.png"
+      },
+      "createdAt": 1789986152524,
+      "updatedAt": 1789986152524
+    },
+    {
+      "id": "s_mub3ljp2_ip8k87",
+      "nombre": "Ch",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Mano curvada formando un arco, con los dedos unidos y flexionados oponiéndose al pulgar (configuración de la letra \"C\").\nO (Orientación): Palma orientada hacia el costado (hacia el cuerpo), mostrando el perfil o hueco de la forma hacia el frente.\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): DESPLAZAMIENTO o LINEAL (la mano realiza un movimiento recto y corto hacia el lateral externo del cuerpo).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/gif",
+        "name": "ch.gif",
+        "url": "media/s_mub3ljp2_ip8k87.gif"
+      },
+      "createdAt": 1789986252278,
+      "updatedAt": 1789986252278
+    },
+    {
+      "id": "s_mub3n214_875r2x",
+      "nombre": "D",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedo índice extendido hacia arriba, mientras que el pulgar se une con las yemas de los dedos medio, anular y meñique formando un círculo cerrado.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_072512363.png",
+        "url": "media/s_mub3n214_875r2x.png"
+      },
+      "createdAt": 1789986322696,
+      "updatedAt": 1789986322696
+    },
+    {
+      "id": "s_mub3o7ew_ipi4j1",
+      "nombre": "E",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos flexionados (índice, medio, anular y meñique) apoyándose sobre el dedo pulgar flexionado, formando un bloque compacto.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_072555162.png",
+        "url": "media/s_mub3o7ew_ipi4j1.png"
+      },
+      "createdAt": 1789986376328,
+      "updatedAt": 1789986376328
+    },
+    {
+      "id": "s_mub3pcug_3xawe8",
+      "nombre": "F",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedo índice y pulgar unidos por las yemas formando un círculo, con los dedos medio, anular y meñique extendidos y separados.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_072653730.png",
+        "url": "media/s_mub3pcug_3xawe8.png"
+      },
+      "createdAt": 1789986430024,
+      "updatedAt": 1789986430024
+    },
+    {
+      "id": "s_mub3ql11_c4z5cj",
+      "nombre": "G",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedo índice y pulgar extendidos y paralelos, manteniéndose ligeramente separados (como indicando una medida pequeña), con los dedos medio, anular y meñique cerrados.\nO (Orientación): Palma orientada hacia el cuerpo (con los dedos índice y pulgar apuntando hacia el lateral interno).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_072742559.png",
+        "url": "media/s_mub3ql11_c4z5cj.png"
+      },
+      "createdAt": 1789986487285,
+      "updatedAt": 1789986487285
+    },
+    {
+      "id": "s_mub3rwtc_hxmbe1",
+      "nombre": "H",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice y medio extendidos y juntos, con los dedos anular y meñique cerrados. El dedo pulgar se apoya sobre el dedo anular o se mantiene extendido paralelo al dedo índice.\nO (Orientación): Palma orientada hacia el cuerpo (con los dedos índice y medio apuntando hacia el lateral interno).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/gif",
+        "name": "h.gif",
+        "url": "media/s_mub3rwtc_hxmbe1.gif"
+      },
+      "createdAt": 1789986549216,
+      "updatedAt": 1789986549216
+    },
+    {
+      "id": "s_mub3t9ki_4lsfyw",
+      "nombre": "I",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedo meñique extendido hacia arriba, con el resto de los dedos cerrados en forma de puño.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_072948957.png",
+        "url": "media/s_mub3t9ki_4lsfyw.png"
+      },
+      "createdAt": 1789986612402,
+      "updatedAt": 1789986612402
+    },
+    {
+      "id": "s_mub3utla_1b779o",
+      "nombre": "J",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedo meñique extendido, con el resto de los dedos cerrados (misma configuración de la letra \"I\").\nO (Orientación): Comienza con la palma orientada hacia el frente y gira hasta quedar orientada hacia el cuerpo al finalizar el trazo.\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): LINEAL y CURVO (la mano dibuja en el aire la forma de la letra \"J\", descendiendo de forma recta y terminando con un movimiento curvo hacia el lateral interno).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/gif",
+        "name": "j.gif",
+        "url": "media/s_mub3utla_1b779o.gif"
+      },
+      "createdAt": 1789986685006,
+      "updatedAt": 1789986685006
+    },
+    {
+      "id": "s_mub3w0ax_plcrsm",
+      "nombre": "K",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice y medio extendidos y separados (en forma de \"V\"), con el dedo pulgar apoyado entre ambos (generalmente sobre la base o falange del dedo medio). Los dedos anular y meñique permanecen cerrados.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): LINEAL (movimiento corto y seco hacia arriba, que puede acompañarse de un leve quiebre de muñeca).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_073203621.png",
+        "url": "media/s_mub3w0ax_plcrsm.png"
+      },
+      "createdAt": 1789986740361,
+      "updatedAt": 1789986740361
+    },
+    {
+      "id": "s_mub3wqsa_sp47c2",
+      "nombre": "L",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice y pulgar extendidos formando un ángulo recto (dibujando la forma de la letra \"L\"), con los dedos medio, anular y meñique cerrados.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_073245484.png",
+        "url": "media/s_mub3wqsa_sp47c2.png"
+      },
+      "createdAt": 1789986774682,
+      "updatedAt": 1789986774682
+    },
+    {
+      "id": "s_mub3yd81_7mkhas",
+      "nombre": "Ll",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice y pulgar extendidos formando un ángulo recto, con los dedos medio, anular y meñique cerrados (configuración de la letra \"L\").\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): DESPLAZAMIENTO o LINEAL (la mano realiza un movimiento recto y corto hacia el lateral externo del cuerpo, indicando la repetición de la letra).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/gif",
+        "name": "Ll.gif",
+        "url": "media/s_mub3yd81_7mkhas.gif"
+      },
+      "createdAt": 1789986850417,
+      "updatedAt": 1789986850417
+    },
+    {
+      "id": "s_mub3zoum_f30mqv",
+      "nombre": "M",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice, medio y anular extendidos y apuntando hacia abajo, con el dedo meñique cerrado y el pulgar flexionado hacia adentro (o cruzado por debajo de los tres dedos extendidos).\nO (Orientación): Palma orientada hacia el cuerpo (con los dedos apuntando hacia abajo).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_073447345.png",
+        "url": "media/s_mub3zoum_f30mqv.png"
+      },
+      "createdAt": 1789986912142,
+      "updatedAt": 1789986912142
+    },
+    {
+      "id": "s_mub40ock_x34iat",
+      "nombre": "N",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice y medio extendidos y apuntando hacia abajo, con los dedos anular y meñique cerrados, y el pulgar flexionado por debajo de los dedos extendidos.\nO (Orientación): Palma orientada hacia el cuerpo (con los dedos apuntando hacia abajo).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_073541978.png",
+        "url": "media/s_mub40ock_x34iat.png"
+      },
+      "createdAt": 1789986958148,
+      "updatedAt": 1789986958148
+    },
+    {
+      "id": "s_mub42fk7_fzooub",
+      "nombre": "Ñ",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice y medio extendidos y apuntando hacia abajo, con los dedos anular y meñique cerrados, y el pulgar flexionado por debajo de los dedos extendidos (misma configuración de la letra \"N\").\nO (Orientación): Palma orientada hacia el cuerpo (con los dedos apuntando hacia abajo).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): OSCILATORIO (movimiento corto de vaivén de lado a lado desde la muñeca, simulando el trazo de la virgulilla sobre la letra).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/gif",
+        "name": "enie.gif",
+        "url": "media/s_mub42fk7_fzooub.gif"
+      },
+      "createdAt": 1789987040071,
+      "updatedAt": 1789987040071
+    },
+    {
+      "id": "s_mub44f4t_iqbvfm",
+      "nombre": "O",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Todos los dedos curvados uniéndose en las yemas con el pulgar, formando un círculo cerrado (dibujando la forma de la letra \"O\").\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_073846620.png",
+        "url": "media/s_mub44f4t_iqbvfm.png"
+      },
+      "createdAt": 1789987132829,
+      "updatedAt": 1789987132829
+    },
+    {
+      "id": "s_mub45alp_rx1a54",
+      "nombre": "P",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice y medio extendidos y separados, con el dedo índice apuntando hacia el frente y el dedo medio apuntando hacia abajo (formando un ángulo recto). El dedo pulgar se apoya sobre el dedo medio. Los dedos anular y meñique permanecen cerrados.\nO (Orientación): Palma orientada hacia el cuerpo y levemente hacia abajo.\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_073920959.png",
+        "url": "media/s_mub45alp_rx1a54.png"
+      },
+      "createdAt": 1789987173613,
+      "updatedAt": 1789987173613
+    },
+    {
+      "id": "s_mub46s0h_gao7by",
+      "nombre": "Q",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice y pulgar extendidos y apuntando hacia abajo, manteniéndose paralelos y ligeramente separados (como la configuración de la letra \"G\" pero orientada hacia el suelo). Los dedos medio, anular y meñique permanecen cerrados.\nO (Orientación): Palma orientada hacia el lateral interno, con los dedos apuntando hacia abajo.\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): OSCILATORIO (movimiento corto y repetido de vaivén hacia arriba y abajo desde la muñeca).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_074016903.png",
+        "url": "media/s_mub46s0h_gao7by.png"
+      },
+      "createdAt": 1789987242833,
+      "updatedAt": 1789987242833
+    },
+    {
+      "id": "s_mub47kqd_fvmr3k",
+      "nombre": "R",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice y medio extendidos y cruzados (el dedo medio se cruza por encima del dedo índice). Los dedos anular y meñique permanecen cerrados y sujetos por el pulgar.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_074109119.png",
+        "url": "media/s_mub47kqd_fvmr3k.png"
+      },
+      "createdAt": 1789987280053,
+      "updatedAt": 1789987280053
+    },
+    {
+      "id": "s_mub48nhk_u8onie",
+      "nombre": "S",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Mano cerrada en puño, con el pulgar cruzado por delante y apoyado sobre los dedos (generalmente sobre las falanges del índice y el medio).\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_074142914.png",
+        "url": "media/s_mub48nhk_u8onie.png"
+      },
+      "createdAt": 1789987330280,
+      "updatedAt": 1789987330280
+    },
+    {
+      "id": "s_mub49khc_98hl1z",
+      "nombre": "T",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Mano cerrada en puño, con el dedo pulgar insertado y asomando entre los dedos índice y medio.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_074237755.png",
+        "url": "media/s_mub49khc_98hl1z.png"
+      },
+      "createdAt": 1789987373040,
+      "updatedAt": 1789987373040
+    },
+    {
+      "id": "s_mub4anoz_a3lq1k",
+      "nombre": "U",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice y medio extendidos y juntos, apuntando hacia arriba. Los dedos anular y meñique permanecen cerrados y sujetos por el pulgar.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_074322367.png",
+        "url": "media/s_mub4anoz_a3lq1k.png"
+      },
+      "createdAt": 1789987423859,
+      "updatedAt": 1789987423859
+    },
+    {
+      "id": "s_mub4bon3_cn1r9a",
+      "nombre": "V",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice y medio extendidos y separados, formando una \"V\". Los dedos anular y meñique permanecen cerrados y sujetos por el pulgar.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_074415815.png",
+        "url": "media/s_mub4bon3_cn1r9a.png"
+      },
+      "createdAt": 1789987471743,
+      "updatedAt": 1789987471743
+    },
+    {
+      "id": "s_mub4clc2_ugb85l",
+      "nombre": "W",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos índice, medio y anular extendidos y separados (formando una \"W\"). El dedo meñique permanece cerrado y sujeto por el pulgar.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_074458173.png",
+        "url": "media/s_mub4clc2_ugb85l.png"
+      },
+      "createdAt": 1789987514114,
+      "updatedAt": 1789987514114
+    },
+    {
+      "id": "s_mub4dj0a_zrt2hd",
+      "nombre": "X",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedo índice extendido pero flexionado en sus falanges formando un gancho. Los dedos medio, anular y meñique permanecen cerrados en puño, y el pulgar se apoya sobre el dedo medio.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor) o ligeramente hacia el lateral interno.\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): LINEAL (un movimiento corto y seco de retracción, tirando ligeramente hacia el cuerpo o hacia el lateral interno).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_074545349.png",
+        "url": "media/s_mub4dj0a_zrt2hd.png"
+      },
+      "createdAt": 1789987557754,
+      "updatedAt": 1789987557754
+    },
+    {
+      "id": "s_mub4ekal_xrxuz3",
+      "nombre": "Y",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedos pulgar y meñique extendidos y separados. Los dedos índice, medio y anular permanecen cerrados contra la palma.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): Sin movimiento (seña estática).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/png",
+        "name": "imagen_2026-09-21_074627954.png",
+        "url": "media/s_mub4ekal_xrxuz3.png"
+      },
+      "createdAt": 1789987606077,
+      "updatedAt": 1789987606077
+    },
+    {
+      "id": "s_mub4fykq_s2g9hx",
+      "nombre": "Z",
+      "categoria": "Letras",
+      "clase": "Clase 1",
+      "fecha": "2026-08-10",
+      "descripcion": "C (Configuración): Dedo índice extendido. Los dedos medio, anular y meñique permanecen cerrados en forma de puño, con el pulgar apoyado sobre ellos.\nO (Orientación): Palma orientada hacia el frente (hacia el interlocutor).\nU (Ubicación): Espacio neutro (frente al cuerpo, a la altura del pecho u hombro).\nM (Movimiento): ZIG-ZAG (el dedo índice dibuja en el aire la forma de la letra \"Z\", realizando un trazo recto horizontal, seguido de un trazo diagonal hacia abajo, y finalizando con otro trazo recto horizontal).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 1",
+      "media": {
+        "type": "image/gif",
+        "name": "z.gif",
+        "url": "media/s_mub4fykq_s2g9hx.gif"
+      },
+      "createdAt": 1789987671242,
+      "updatedAt": 1789987671242
+    },
+    {
+      "id": "s_mub4klvj_udp8lt",
+      "nombre": "Nombre",
+      "categoria": "Información",
+      "clase": "Clase 2",
+      "fecha": "2026-08-24",
+      "descripcion": "C (Configuración): Seña bimanual. La mano pasiva (base) se mantiene con la mano abierta y los dedos juntos. La mano activa (dominante) adopta la configuración de la letra \"N\" (dedos índice y medio extendidos, con el resto cerrados).\nO (Orientación): Mano pasiva: palma orientada hacia el cuerpo o hacia abajo. Mano activa: palma orientada hacia abajo.\nU (Ubicación): Espacio neutro (frente al pecho).\nM (Movimiento): CONTACTO (la mano activa realiza un movimiento corto hacia abajo, golpeando o tocando suavemente con la punta de sus dedos el dorso de la mano pasiva, repitiéndose generalmente un par de veces).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 2",
+      "media": {
+        "type": "image/gif",
+        "name": "nombre.gif",
+        "url": "media/s_mub4klvj_udp8lt.gif"
+      },
+      "createdAt": 1789987888063,
+      "updatedAt": 1789987888063
+    },
+    {
+      "id": "s_mub4mgdb_jfpho4",
+      "nombre": "Apellido",
+      "categoria": "Información",
+      "clase": "Clase 2",
+      "fecha": "2026-08-24",
+      "descripcion": "C (Configuración): Seña bimanual. Ambas manos adoptan la configuración de la letra \"A\" (puño cerrado con el dedo pulgar apoyado en el lateral del dedo índice).\nO (Orientación): Ambas manos con las palmas orientadas hacia el cuerpo o ligeramente hacia abajo.\nU (Ubicación): Espacio neutro (frente al pecho).\nM (Movimiento): CONTACTO (la mano activa o dominante se coloca por encima de la mano pasiva y realiza un movimiento corto, golpeando o tocando suavemente con la base de su puño sobre la parte superior o el dorso de la mano pasiva, repitiéndose generalmente un par de veces).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 2",
+      "media": {
+        "type": "image/gif",
+        "name": "apellido.gif",
+        "url": "media/s_mub4mgdb_jfpho4.gif"
+      },
+      "createdAt": 1789987974239,
+      "updatedAt": 1789987974239
+    },
+    {
+      "id": "s_mub4r572_4d9wah",
+      "nombre": "- Separar nombres y/o apellido -",
+      "categoria": "Información",
+      "clase": "Clase 2",
+      "fecha": "2026-08-24",
+      "descripcion": "",
+      "notas": "Se aplica para separar varios nombres o para separar el nombre del apellido.",
+      "fuente": "Clase 2",
+      "media": {
+        "type": "image/gif",
+        "name": "separarnombres.gif",
+        "url": "media/s_mub4r572_4d9wah.gif"
+      },
+      "createdAt": 1789988193038,
+      "updatedAt": 1789988193038
+    },
+    {
+      "id": "s_mubvyqpt_ga9qj4",
+      "nombre": "Tiempo",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Seña bimanual. La mano pasiva (base) se mantiene cerrada en puño o ligeramente relajada. La mano activa (dominante) adopta la configuración de la letra \"T\" (mano cerrada en puño con el dedo pulgar insertado entre los dedos índice y medio) o, en algunas variantes, simplemente con el dedo índice extendido.\nO (Orientación): Mano pasiva con la palma orientada hacia abajo. Mano activa orientada hacia la muñeca de la mano pasiva.\nU (Ubicación): Sobre la muñeca del brazo pasivo (espacio neutro frente al cuerpo).\nM (Movimiento): CONTACTO (la mano activa realiza un movimiento corto, tocando o golpeando suavemente un par de veces el dorso de la muñeca de la mano pasiva, indicando el lugar donde tradicionalmente se coloca un reloj).\nEF/CNM: Neutra (puede acompañarse de una expresión facial de interrogación si se está preguntando \"qué hora es\" o \"cuánto tiempo\").",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "temporal.gif",
+        "url": "media/s_mubvyqpt_ga9qj4.gif"
+      },
+      "createdAt": 1790033897153,
+      "updatedAt": 1790033897153
+    },
+    {
+      "id": "s_mubw0n0d_fh65ny",
+      "nombre": "Señas / Lenguaje de señas",
+      "categoria": "Expresiones",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Seña bimanual. Ambas manos abiertas con los dedos separados y ligeramente semiflexionados (configuración en \"5\"). En algunas variantes, se utilizan únicamente los dedos índice y pulgar extendidos.\nO (Orientación): Palmas orientadas la una hacia la otra (frente a frente) o ligeramente inclinadas hacia el cuerpo.\nU (Ubicación): Espacio neutro (frente al pecho).\nM (Movimiento): CIRCULAR ALTERNADO (ambas manos realizan movimientos circulares continuos y alternados hacia el cuerpo, simulando un pedaleo hacia atrás; mientras una mano sube y se acerca al pecho, la otra baja y se aleja).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "señadeseña.gif",
+        "url": "media/s_mubw0n0d_fh65ny.gif"
+      },
+      "createdAt": 1790033985661,
+      "updatedAt": 1790033985661
+    },
+    {
+      "id": "s_mubw265n_sqos6y",
+      "nombre": "Señas temporales",
+      "categoria": "Expresiones",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Seña compuesta por dos partes. Primera parte (\"Señas\"): Ambas manos abiertas con los dedos separados y ligeramente semiflexionados (configuración en \"5\"). Segunda parte (\"Temporales\" / \"Tiempo\"): Mano pasiva cerrada en puño o relajada; mano activa adopta la configuración de la letra \"T\" (o dedo índice extendido).\nO (Orientación): Primera parte: Palmas orientadas la una hacia la otra o levemente hacia el cuerpo. Segunda parte: Mano activa orientada hacia el dorso de la muñeca de la mano pasiva.\nU (Ubicación): Primera parte: Espacio neutro frente al pecho. Segunda parte: Sobre la muñeca del brazo pasivo.\nM (Movimiento): COMPUESTO SECUENCIAL. Primero, ambas manos realizan movimientos circulares continuos y alternados hacia el cuerpo (seña de \"Señas\"). Inmediatamente después, la mano activa realiza un contacto corto, tocando o golpeando suavemente un par de veces la muñeca pasiva (seña de \"Tiempo\").\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "señastemporales.gif",
+        "url": "media/s_mubw265n_sqos6y.gif"
+      },
+      "createdAt": 1790034057131,
+      "updatedAt": 1790034057131
+    },
+    {
+      "id": "s_mubw76c4_pd46ah",
+      "nombre": "Hoy",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Ambas manos con el dedo índice y pulgar extendidos (configuración de \"L\") o en configuración \"Y\" (pulgar y meñique extendidos).\nO (Orientación): Palmas orientadas hacia arriba o frente a frente.\nU (Ubicación): Espacio neutro (frente al torso).\nM (Movimiento): LINEAL (movimiento corto, rápido y seco hacia abajo, generalmente repetido dos veces).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "hoy.gif",
+        "url": "media/s_mubw76c4_pd46ah.gif"
+      },
+      "createdAt": 1790034290644,
+      "updatedAt": 1790034290644
+    },
+    {
+      "id": "s_mubw7xq4_2wej31",
+      "nombre": "Ayer",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Mano activa (dominante) con el dedo pulgar o índice extendido (los demás dedos cerrados en puño).\nO (Orientación): Palma orientada hacia el lateral opuesto o hacia el frente.\nU (Ubicación): Mejilla o lateral del rostro, cerca de la barbilla.\nM (Movimiento): HACIA ATRÁS (un movimiento corto en arco desde la comisura de los labios hacia la oreja, o apuntando hacia atrás sobre el hombro, indicando el pasado).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "ayer.gif",
+        "url": "media/s_mubw7xq4_2wej31.gif"
+      },
+      "createdAt": 1790034326140,
+      "updatedAt": 1790034326140
+    },
+    {
+      "id": "s_mubwah5h_et8em9",
+      "nombre": "Mañana (Día siguiente)",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Mano activa en configuración de \"L\" (índice y pulgar extendidos) o solo el dedo índice extendido.\nO (Orientación): Palma orientada hacia el lateral interno o hacia el rostro.\nU (Ubicación): Mejilla o borde de la mandíbula.\nM (Movimiento): HACIA ADELANTE (la mano realiza un movimiento de arco o línea recta desde la mejilla hacia el frente, indicando el futuro).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "mañana.gif",
+        "url": "media/s_mubwah5h_et8em9.gif"
+      },
+      "createdAt": 1790034444629,
+      "updatedAt": 1790034444629
+    },
+    {
+      "id": "s_mubwb8fa_hbkuex",
+      "nombre": "Día",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Mano pasiva plana en posición horizontal (palma hacia abajo). Mano activa con el dedo índice extendido (configuración \"D\").\nO (Orientación): Palma pasiva hacia abajo; palma activa hacia el lateral interno.\nU (Ubicación): Espacio neutro frente al cuerpo.\nM (Movimiento): ARCO (la mano activa dibuja un semicírculo en el aire, de izquierda a derecha, terminando apoyada sobre el dorso de la mano pasiva, simbolizando el arco que hace el sol).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "dia.gif",
+        "url": "media/s_mubwb8fa_hbkuex.gif"
+      },
+      "createdAt": 1790034479974,
+      "updatedAt": 1790034479974
+    },
+    {
+      "id": "s_mubwbvau_7rz7xf",
+      "nombre": "Semana",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Mano pasiva plana con la palma abierta hacia arriba. Mano activa con el dedo índice extendido (configuración \"1\").\nO (Orientación): Palma activa hacia abajo o hacia el lateral interno.\nU (Ubicación): Sobre la palma de la mano pasiva.\nM (Movimiento): LINEAL (el dedo índice de la mano activa se desliza en línea recta desde la base de la palma pasiva hacia la punta de los dedos).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "semana.gif",
+        "url": "media/s_mubwbvau_7rz7xf.gif"
+      },
+      "createdAt": 1790034509622,
+      "updatedAt": 1790034509622
+    },
+    {
+      "id": "s_mubwcw6r_68a0c8",
+      "nombre": "Mes",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Mano pasiva con el dedo índice extendido apuntando hacia arriba. Mano activa en configuración \"M\" (índice, medio y anular extendidos apuntando abajo) o con el índice extendido.\nO (Orientación): Ambas manos con la palma orientada hacia el lateral interno (frente a frente).\nU (Ubicación): Espacio neutro frente al pecho.\nM (Movimiento): LINEAL (la mano activa se desliza verticalmente hacia abajo rozando el dorso o lateral del dedo índice de la mano pasiva).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "mes.gif",
+        "url": "media/s_mubwcw6r_68a0c8.gif"
+      },
+      "createdAt": 1790034557427,
+      "updatedAt": 1790034557427
+    },
+    {
+      "id": "s_mubwdqbp_36qwsk",
+      "nombre": "Año",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Ambas manos cerradas en puño (configuración \"S\").\nO (Orientación): Palmas orientadas hacia el cuerpo o laterales.\nU (Ubicación): Espacio neutro frente al torso.\nM (Movimiento): CIRCULAR Y CONTACTO (el puño activo traza un círculo completo alrededor del puño pasivo, simulando la órbita terrestre, y aterriza golpeando suavemente la parte superior del puño pasivo).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "anio2.gif",
+        "url": "media/s_mubwdqbp_36qwsk.gif"
+      },
+      "createdAt": 1790034596485,
+      "updatedAt": 1790034596485
+    },
+    {
+      "id": "s_mubweq8y_blilkc",
+      "nombre": "Mañana (Hora del día)",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Mano pasiva apoyada en el pliegue del codo del brazo activo. Mano activa plana con los dedos extendidos.\nO (Orientación): Palma activa orientada hacia el cuerpo.\nU (Ubicación): Antebrazo activo en posición horizontal o ligeramente inclinada hacia arriba, frente al torso.\nM (Movimiento): ASCENDENTE (el antebrazo activo se levanta pivoteando desde el codo, simulando la salida del sol en el horizonte).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "alamaniana.gif",
+        "url": "media/s_mubweq8y_blilkc.gif"
+      },
+      "createdAt": 1790034643042,
+      "updatedAt": 1790034643042
+    },
+    {
+      "id": "s_mubwfv9s_xd2pv9",
+      "nombre": "Mediodía",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Brazo pasivo en posición horizontal frente al pecho. Brazo activo recto apuntando hacia arriba con la mano plana.\nO (Orientación): Palma activa orientada hacia el lateral interno.\nU (Ubicación): El codo del brazo activo se apoya sobre el dorso de la mano pasiva.\nM (Movimiento): CONTACTO / ESTÁTICO (se marca la posición formando un ángulo de 90 grados, como el sol en su punto más alto del cielo).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "almediodia.gif",
+        "url": "media/s_mubwfv9s_xd2pv9.gif"
+      },
+      "createdAt": 1790034696208,
+      "updatedAt": 1790034696208
+    },
+    {
+      "id": "s_mubwgm5q_dh6uxu",
+      "nombre": "Tarde (Momento del día)",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Brazo pasivo horizontal frente al pecho. Brazo activo con la mano plana y rígida.\nO (Orientación): Palma activa apuntando hacia abajo y al frente.\nU (Ubicación): Espacio neutro.\nM (Movimiento): DESCENDENTE DIAGONAL (el brazo activo, apoyado en la mano pasiva o cerca de ella, se inclina y desciende hacia adelante a unos 45 grados, simulando la caída del sol).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "alatarde.gif",
+        "url": "media/s_mubwgm5q_dh6uxu.gif"
+      },
+      "createdAt": 1790034731054,
+      "updatedAt": 1790034731054
+    },
+    {
+      "id": "s_mubwha6j_c6izo9",
+      "nombre": "Noche",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Ambas manos planas, ligeramente relajadas o ahuecadas.\nO (Orientación): Palmas orientadas hacia el cuerpo y hacia abajo.\nU (Ubicación): A la altura de la parte superior del pecho o rostro.\nM (Movimiento): DESCENDENTE Y CRUZADO (ambas manos bajan en diagonal y se cruzan frente al cuerpo, simulando la caída de la oscuridad que tapa la luz).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "alanoche.gif",
+        "url": "media/s_mubwha6j_c6izo9.gif"
+      },
+      "createdAt": 1790034762187,
+      "updatedAt": 1790034762187
+    },
+    {
+      "id": "s_mubwi449_lia20d",
+      "nombre": "Madrugada",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Brazo pasivo horizontal (representando el horizonte). Mano activa en configuración de capullo u \"O\" aplanada (yemas de los dedos tocando el pulgar).\nO (Orientación): Palma activa orientada hacia el rostro o al frente.\nU (Ubicación): Justo por detrás o debajo de la mano/brazo pasivo.\nM (Movimiento): ASCENDENTE CON APERTURA (la mano activa sube levemente asomando por el horizonte del brazo pasivo y, simultáneamente, abre los dedos, simulando los primeros rayos de luz).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "madrugada.gif",
+        "url": "media/s_mubwi449_lia20d.gif"
+      },
+      "createdAt": 1790034800985,
+      "updatedAt": 1790034800985
+    },
+    {
+      "id": "s_mubwit8i_49ps5k",
+      "nombre": "Todos los días",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Mano activa en configuración de \"A\" (puño cerrado con el pulgar descansando en el lateral) o dedo pulgar extendido.\nO (Orientación): Palma orientada hacia el lateral opuesto del rostro.\nU (Ubicación): Mejilla inferior o lateral del mentón.\nM (Movimiento): REPETITIVO (la mano raspa o desliza suavemente sobre la mejilla hacia adelante en un movimiento corto y continuo, repitiendo la seña de \"día/mañana\" múltiples veces).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "todoslosdias.gif",
+        "url": "media/s_mubwit8i_49ps5k.gif"
+      },
+      "createdAt": 1790034833538,
+      "updatedAt": 1790034833538
+    },
+    {
+      "id": "s_mubwjmhp_mtrtzx",
+      "nombre": "Todo el día",
+      "categoria": "Tiempo",
+      "clase": "Clase 4",
+      "fecha": "2026-09-14",
+      "descripcion": "C (Configuración): Brazo pasivo horizontal. Brazo activo extendido con la mano plana.\nO (Orientación): Palma activa orientada hacia el cuerpo.\nU (Ubicación): Espacio neutro amplio.\nM (Movimiento): ARCO AMPLIO (el brazo activo traza un arco continuo y completo de 180 grados, comenzando desde el lado izquierdo del horizonte pasivo, subiendo hasta el punto más alto, y descendiendo hasta el lado derecho, indicando el recorrido total del sol).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 4",
+      "media": {
+        "type": "image/gif",
+        "name": "todoeldia.gif",
+        "url": "media/s_mubwjmhp_mtrtzx.gif"
+      },
+      "createdAt": 1790034871453,
+      "updatedAt": 1790034871453
+    },
+    {
+      "id": "s_mubwn0w0_g6pgei",
+      "nombre": "Buenos días",
+      "categoria": "Saludos",
+      "clase": "Clase 5",
+      "fecha": "2026-09-21",
+      "descripcion": "C (Configuración): Seña compuesta. Primera parte (Buenos): Mano activa plana con los dedos juntos. Segunda parte (Días): Mano pasiva plana o en puño, mano activa con el dedo índice extendido (configuración \"D\").\nO (Orientación): Primera parte: Palma hacia el pecho. Segunda parte: Palma activa orientada hacia el lateral interno.\nU (Ubicación): Primera parte: Pecho. Segunda parte: Espacio neutro frente al cuerpo.\nM (Movimiento): COMPUESTO SECUENCIAL. La mano activa toca el pecho y se mueve hacia adelante alejándose del cuerpo (Buenos); luego, la mano activa traza un arco de izquierda a derecha (o de abajo hacia arriba) apoyándose o cruzando sobre la mano pasiva (Días).\nEF/CNM: Expresión facial afable o sonrisa de saludo.",
+      "notas": "",
+      "fuente": "Clase 5",
+      "media": {
+        "type": "image/gif",
+        "name": "buendia.gif",
+        "url": "media/s_mubwn0w0_g6pgei.gif"
+      },
+      "createdAt": 1790035030080,
+      "updatedAt": 1790035030080
+    },
+    {
+      "id": "s_mubwnynp_rxsui8",
+      "nombre": "Buenas tardes",
+      "categoria": "Saludos",
+      "clase": "Clase 5",
+      "fecha": "2026-09-21",
+      "descripcion": "C (Configuración): Seña compuesta. Primera parte (Buenas): Mano activa plana con los dedos juntos. Segunda parte (Tardes): Brazo pasivo horizontal, mano activa plana (o en configuración \"F\" / \"T\").\nO (Orientación): Primera parte: Palma hacia el pecho. Segunda parte: Palma activa orientada hacia abajo.\nU (Ubicación): Primera parte: Pecho. Segunda parte: Espacio neutro con apoyo en la mano/brazo pasivo.\nM (Movimiento): COMPUESTO SECUENCIAL. Se realiza el movimiento hacia adelante desde el pecho (Buenas); a continuación, el antebrazo activo se apoya sobre el dorso pasivo y desciende en diagonal hacia adelante, simulando la caída del sol (Tardes).\nEF/CNM: Expresión facial afable o sonrisa de saludo.",
+      "notas": "",
+      "fuente": "Clase 5",
+      "media": {
+        "type": "image/gif",
+        "name": "buenastardes.gif",
+        "url": "media/s_mubwnynp_rxsui8.gif"
+      },
+      "createdAt": 1790035073845,
+      "updatedAt": 1790035073845
+    },
+    {
+      "id": "s_mubworik_o3yfs9",
+      "nombre": "Buenas noches",
+      "categoria": "Saludos",
+      "clase": "Clase 5",
+      "fecha": "2026-09-21",
+      "descripcion": "C (Configuración): Seña compuesta. Primera parte (Buenas): Mano activa plana con los dedos juntos. Segunda parte (Noches): Ambas manos planas, ligeramente ahuecadas.\nO (Orientación): Primera parte: Palma hacia el pecho. Segunda parte: Palmas orientadas hacia el cuerpo y hacia abajo.\nU (Ubicación): Primera parte: Pecho. Segunda parte: A la altura de la parte superior del pecho o rostro.\nM (Movimiento): COMPUESTO SECUENCIAL. Se realiza el movimiento hacia adelante desde el pecho (Buenas); seguidamente, ambas manos bajan en diagonal y se cruzan frente al cuerpo, como cerrando el paso de la luz (Noches).\nEF/CNM: Expresión facial afable o sonrisa de saludo.",
+      "notas": "",
+      "fuente": "Clase 5",
+      "media": {
+        "type": "image/gif",
+        "name": "buenasnoches.gif",
+        "url": "media/s_mubworik_o3yfs9.gif"
+      },
+      "createdAt": 1790035111244,
+      "updatedAt": 1790035111244
+    },
+    {
+      "id": "s_mubwqjvm_dct49b",
+      "nombre": "¡Salud! (De cuando alguien estornuda)",
+      "categoria": "Saludos",
+      "clase": "Clase 5",
+      "fecha": "2026-09-21",
+      "descripcion": "C (Configuración): Mano activa con el dedo índice extendido (el resto de los dedos cerrados).\nO (Orientación): Palma orientada hacia el lateral o hacia el rostro.\nU (Ubicación): Punta o lateral de la nariz.\nM (Movimiento): LINEAL / ROCE (el dedo índice roza suavemente la punta de la nariz o el lateral inferior hacia arriba o hacia afuera en un movimiento corto y rápido).\nEF/CNM: Leve inclinación de cabeza hacia adelante, gesto de cortesía o ligera sonrisa.",
+      "notas": "",
+      "fuente": "Clase 5",
+      "media": {
+        "type": "image/gif",
+        "name": "salud.gif",
+        "url": "media/s_mubwqjvm_dct49b.gif"
+      },
+      "createdAt": 1790035194658,
+      "updatedAt": 1790035194658
+    },
+    {
+      "id": "s_mubwrnhc_3odctz",
+      "nombre": "Salud (Bienestar)",
+      "categoria": "Expresiones",
+      "clase": "Clase 5",
+      "fecha": "2026-09-21",
+      "descripcion": "C (Configuración): Ambas manos cerradas en puño (configuración \"S\" o \"A\").\nO (Orientación): Palmas orientadas hacia el cuerpo o hacia los laterales internos.\nU (Ubicación): Parte superior del pecho (zona de las clavículas u hombros).\nM (Movimiento): LINEAL Y FIRME (los puños tocan el pecho y luego realizan un movimiento simultáneo y fuerte hacia el frente, alejándose del cuerpo, simbolizando fuerza y vitalidad).\nEF/CNM: Expresión facial de firmeza, seguridad o bienestar.",
+      "notas": "",
+      "fuente": "Clase 5",
+      "media": {
+        "type": "image/gif",
+        "name": "saludbienestar.gif",
+        "url": "media/s_mubwrnhc_3odctz.gif"
+      },
+      "createdAt": 1790035245984,
+      "updatedAt": 1790035245984
+    },
+    {
+      "id": "s_mul9fwe2_m3ayoi",
+      "nombre": "Vocabulario",
+      "categoria": "Expresiones",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano pasiva plana con los dedos extendidos y juntos (configuración \"B\"). Mano activa con los dedos índice y medio extendidos y separados (configuración \"V\").\nO (Orientación): Palma pasiva orientada hacia el lateral interno o arriba; palma activa hacia abajo o hacia el cuerpo.\nU (Ubicación): Espacio neutro frente al cuerpo.\nM (Movimiento): CONTACTO Y DESPLAZAMIENTO (la mano activa golpea de forma repetida y alternada con la punta de los dedos \"V\" sobre la palma o los dedos de la mano pasiva, mientras se desplaza ligeramente hacia abajo, simulando una lista).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "vocabulario.gif",
+        "url": "media/s_mul9fwe2_m3ayoi.gif"
+      },
+      "createdAt": 1790600728250,
+      "updatedAt": 1790600728250
+    },
+    {
+      "id": "s_mul9gnlf_rqhkz0",
+      "nombre": "Número",
+      "categoria": "Expresiones",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa en configuración de \"pico\" o \"capullo\" (las yemas de todos los dedos se unen tocando el pulgar).\nO (Orientación): Palma orientada hacia el cuerpo.\nU (Ubicación): Pecho (lado opuesto a la mano activa) o espacio neutro.\nM (Movimiento): CONTACTO REPETIDO (la mano activa realiza dos o tres toques cortos y secos contra el pecho o se frotan suavemente las yemas en el aire).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "numero.gif",
+        "url": "media/s_mul9gnlf_rqhkz0.gif"
+      },
+      "createdAt": 1790600763507,
+      "updatedAt": 1790600763507
+    },
+    {
+      "id": "s_mul9hwnp_68vdu2",
+      "nombre": "Uno",
+      "categoria": "Números",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa con el dedo índice extendido y el resto de los dedos cerrados (configuración \"1\").\nO (Orientación): Palma orientada hacia el cuerpo (para conteo) o hacia el interlocutor.\nU (Ubicación): Espacio neutro frente al pecho o a la altura del rostro.\nM (Movimiento): Sin movimiento (estático).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/png",
+        "name": "1.png",
+        "url": "media/s_mul9hwnp_68vdu2.png"
+      },
+      "createdAt": 1790600821909,
+      "updatedAt": 1790600821909
+    },
+    {
+      "id": "s_mul9ie25_xuz50m",
+      "nombre": "Dos",
+      "categoria": "Números",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa con los dedos índice y medio extendidos y separados (configuración \"V\" o \"2\").\nO (Orientación): Palma orientada hacia el cuerpo (conteo) o hacia el interlocutor.\nU (Ubicación): Espacio neutro frente al pecho.\nM (Movimiento): Sin movimiento (estático).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/png",
+        "name": "2.png",
+        "url": "media/s_mul9ie25_xuz50m.png"
+      },
+      "createdAt": 1790600844461,
+      "updatedAt": 1790600844461
+    },
+    {
+      "id": "s_mul9jdtd_xlaamq",
+      "nombre": "Gracias / Muchas gracias",
+      "categoria": "Expresiones",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Seña compuesta. Primera parte (Muchas): Ambas manos en capullo que se abren, o manos planas con dedos separados (configuración \"5\"). Segunda parte (Gracias): Mano activa plana con los dedos juntos o levemente curvados.\nO (Orientación): Primera parte: Palmas hacia arriba o frente a frente. Segunda parte: Palma hacia el cuerpo que luego gira hacia arriba/adelante.\nU (Ubicación): Primera parte: Espacio neutro. Segunda parte: Desde el mentón/boca hacia adelante.\nM (Movimiento): COMPUESTO. Primero las manos se separan o los dedos se agitan/abren enfatizando cantidad (Muchas). Luego, la mano activa parte tocando o cerca del mentón y desciende hacia adelante en un arco suave (Gracias).\nEF/CNM: Sonrisa sincera, asentimiento con la cabeza (contacto visual importante).",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "muchasgracias.gif",
+        "url": "media/s_mul9jdtd_xlaamq.gif"
+      },
+      "createdAt": 1790600890801,
+      "updatedAt": 1790600890801
+    },
+    {
+      "id": "s_mul9k3yq_tz3ub2",
+      "nombre": "Entender",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa cerrada en puño con el dedo índice flexionado, apoyado sobre el pulgar.\nO (Orientación): Palma orientada hacia el lateral o hacia el cuerpo.\nU (Ubicación): Sien o lateral de la frente.\nM (Movimiento): APERTURA RÁPIDA (el dedo índice se extiende repentinamente hacia arriba, simulando una \"lámpara que se enciende\" al comprender algo).\nEF/CNM: Expresión de asentimiento, ojos ligeramente abiertos indicando comprensión.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "entender.gif",
+        "url": "media/s_mul9k3yq_tz3ub2.gif"
+      },
+      "createdAt": 1790600924690,
+      "updatedAt": 1790600924690
+    },
+    {
+      "id": "s_mul9kpli_tef4gl",
+      "nombre": "No entender",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Igual que \"Entender\" (mano activa en puño junto a la sien que despliega el dedo índice).\nO (Orientación): Igual que \"Entender\".\nU (Ubicación): Sien o lateral de la frente.\nM (Movimiento): Igual que \"Entender\", pero a veces más pausado o repetido.\nEF/CNM: (CRUCIAL) Movimiento de negación con la cabeza, ceño fruncido, expresión de duda o confusión. La seña se niega con el cuerpo y el rostro.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "noentender.gif",
+        "url": "media/s_mul9kpli_tef4gl.gif"
+      },
+      "createdAt": 1790600952726,
+      "updatedAt": 1790600952726
+    },
+    {
+      "id": "s_mul9lche_qzhyrs",
+      "nombre": "Despacio",
+      "categoria": "Expresiones",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Ambas manos planas con los dedos juntos o ligeramente relajados (configuración \"B\").\nO (Orientación): Palmas orientadas hacia abajo.\nU (Ubicación): Espacio neutro frente al torso.\nM (Movimiento): DESCENDENTE LENTO (ambas manos bajan simultáneamente en el espacio de forma muy suave y controlada, repitiéndose si es necesario).\nEF/CNM: Relajación facial, a veces se acompaña articulando la palabra \"des-pa-cio\" sin voz.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "despacio.gif",
+        "url": "media/s_mul9lche_qzhyrs.gif"
+      },
+      "createdAt": 1790600982386,
+      "updatedAt": 1790600982386
+    },
+    {
+      "id": "s_mul9n8a5_qo2yq9",
+      "nombre": "Otra vez",
+      "categoria": "Expresiones",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano pasiva plana, con los dedos ligeramente curvados hacia arriba. Mano activa en ángulo recto o semi-curvada (los dedos doblados desde los nudillos).\nO (Orientación): Mano pasiva con la palma hacia arriba y ligeramente inclinada hacia el cuerpo. Mano activa con la palma hacia el cuerpo.\nU (Ubicación): Espacio neutro frente al estómago o pecho.\nM (Movimiento): CONTACTO (la mano activa traza un arco o línea recta hacia la mano pasiva, y las yemas de la mano activa golpean el centro de la palma de la mano pasiva).\nEF/CNM: Neutra (o ceño fruncido si es una exigencia \"¡Otra vez!\").",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "otravez.gif",
+        "url": "media/s_mul9n8a5_qo2yq9.gif"
+      },
+      "createdAt": 1790601070253,
+      "updatedAt": 1790601070253
+    },
+    {
+      "id": "s_mul9nxvi_gzbdqq",
+      "nombre": "De nuevo",
+      "categoria": "Expresiones",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "denuevo.gif",
+        "url": "media/s_mul9nxvi_gzbdqq.gif"
+      },
+      "createdAt": 1790601103422,
+      "updatedAt": 1790601103422
+    },
+    {
+      "id": "s_mul9p4aj_zdd9na",
+      "nombre": "Nuevo",
+      "categoria": "Adjetivos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano pasiva plana con los dedos apuntando al lado opuesto. Mano activa abierta y plana o ligeramente ahuecada.\nO (Orientación): Mano pasiva hacia abajo; mano activa orientada hacia arriba o hacia el lateral interno.\nU (Ubicación): Espacio neutro frente al cuerpo.\nM (Movimiento): ROCE ASCENDENTE (el dorso de la mano activa roza rápidamente el dorso o la palma de la mano pasiva, deslizándose hacia arriba y hacia afuera con un movimiento ágil).\nEF/CNM: Neutra, a veces se elevan ligeramente las cejas.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "nuevo.gif",
+        "url": "media/s_mul9p4aj_zdd9na.gif"
+      },
+      "createdAt": 1790601158395,
+      "updatedAt": 1790601158395
+    },
+    {
+      "id": "s_mul9pv5h_oss5or",
+      "nombre": "Practicar",
+      "categoria": "Adjetivos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Ambas manos cerradas en puño, o la mano pasiva en puño y la activa plana (\"frotando\"). En la variante más común, ambas manos en configuración de puño (A).\nO (Orientación): Palmas enfrentadas o hacia el cuerpo.\nU (Ubicación): Espacio neutro.\nM (Movimiento): FRICCIÓN ALTERNADA (los puños se frotan repetidamente uno contra el otro en un movimiento de vaivén de adelante hacia atrás).\nEF/CNM: Expresión de concentración.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "practicar.gif",
+        "url": "media/s_mul9pv5h_oss5or.gif"
+      },
+      "createdAt": 1790601193205,
+      "updatedAt": 1790601193205
+    },
+    {
+      "id": "s_mul9rdk0_2dcstf",
+      "nombre": "Sordo",
+      "categoria": "Adjetivos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa con el dedo índice extendido (configuración \"1\").\nO (Orientación): Palma orientada hacia el rostro o el lateral interno.\nU (Ubicación): Rostro (oreja y boca).\nM (Movimiento): CONTACTO SECUENCIAL (el dedo índice toca primero la oreja y luego se mueve trazando una pequeña línea para tocar la comisura de la boca, o viceversa; indicando que no escucha y no habla).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "sordo.gif",
+        "url": "media/s_mul9rdk0_2dcstf.gif"
+      },
+      "createdAt": 1790601263712,
+      "updatedAt": 1790601263712
+    },
+    {
+      "id": "s_mul9rxfh_pb1xdc",
+      "nombre": "Hipoacúsico",
+      "categoria": "Adjetivos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa con el dedo índice (o índice y medio) extendido y el resto cerrado.\nO (Orientación): Palma orientada hacia la cabeza.\nU (Ubicación): Sobre o detrás de la oreja.\nM (Movimiento): GOLPETEO O ROTACIÓN (el dedo toca un par de veces el pabellón auricular o realiza un ligero movimiento circular/oscilatorio señalando la zona del oído para indicar resto auditivo).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "hipoacusico.gif",
+        "url": "media/s_mul9rxfh_pb1xdc.gif"
+      },
+      "createdAt": 1790601289469,
+      "updatedAt": 1790601289469
+    },
+    {
+      "id": "s_mul9siut_vrka12",
+      "nombre": "Oyente",
+      "categoria": "Adjetivos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa con el dedo índice extendido (configuración \"1\").\nO (Orientación): Palma hacia el rostro.\nU (Ubicación): Frente a la boca o mentón.\nM (Movimiento): CIRCULAR (el dedo índice dibuja pequeños círculos continuos en el aire frente a los labios, simbolizando la salida constante de palabras/habla).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "oyente.gif",
+        "url": "media/s_mul9siut_vrka12.gif"
+      },
+      "createdAt": 1790601317237,
+      "updatedAt": 1790601317237
+    },
+    {
+      "id": "s_mul9szd3_gwgu2s",
+      "nombre": "Estudiar",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Ambas manos planas con los dedos separados (configuración \"5\") o manos ahuecadas.\nO (Orientación): Palmas orientadas la una hacia la otra o ligeramente hacia el rostro (simulando sostener un libro o mirar sus páginas).\nU (Ubicación): Espacio neutro frente al rostro/pecho.\nM (Movimiento): OSCILATORIO (los dedos se mueven/agitan rápidamente frente a los ojos, o las manos se acercan y alejan del rostro alternadamente, simbolizando el acto de absorber conocimiento de las páginas).\nEF/CNM: Ceño ligeramente fruncido por la concentración, mirada fija en las manos.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "estudiar.gif",
+        "url": "media/s_mul9szd3_gwgu2s.gif"
+      },
+      "createdAt": 1790601338630,
+      "updatedAt": 1790601338630
+    },
+    {
+      "id": "s_mul9u6y6_c33snd",
+      "nombre": "Lengua de señas / Lenguaje de señas / LSA",
+      "categoria": "Expresiones",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Ambas manos abiertas con los dedos separados y ligeramente semiflexionados (configuración \"5\").\nO (Orientación): Palmas orientadas la una hacia la otra (frente a frente).\nU (Ubicación): Espacio neutro (frente al pecho).\nM (Movimiento): CIRCULAR ALTERNADO (ambas manos realizan movimientos circulares continuos y alternados hacia el cuerpo, simulando un pedaleo hacia atrás).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "lsa.gif",
+        "url": "media/s_mul9u6y6_c33snd.gif"
+      },
+      "createdAt": 1790601395118,
+      "updatedAt": 1790601395118
+    },
+    {
+      "id": "s_mul9uqpu_md55md",
+      "nombre": "Perdón",
+      "categoria": "Expresiones",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa plana (configuración \"B\") o yemas agrupadas (capullo).\nO (Orientación): Palma hacia el cuerpo.\nU (Ubicación): Mentón, mejilla inferior o centro del pecho.\nM (Movimiento): ROCE/FRICCIÓN (si es en el rostro, el dorso de los dedos acaricia el mentón hacia abajo; si es en el pecho, la palma frota el centro del pecho con un movimiento circular o descendente).\nEF/CNM: Expresión facial de arrepentimiento, disculpa, cabeza ligeramente inclinada hacia adelante.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "perdon.gif",
+        "url": "media/s_mul9uqpu_md55md.gif"
+      },
+      "createdAt": 1790601420738,
+      "updatedAt": 1790601420738
+    },
+    {
+      "id": "s_mul9v9e1_bfbngg",
+      "nombre": "Por favor",
+      "categoria": "Expresiones",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Ambas manos planas.\nO (Orientación): Palmas unidas frente a frente (como en posición de rezo).\nU (Ubicación): Frente al pecho.\nM (Movimiento): CIRCULAR O HACIA EL FRENTE (las manos unidas se mueven levemente en un pequeño círculo hacia el interlocutor o simplemente se sostienen con firmeza). Otra variante es colocar una sola mano plana en el pecho.\nEF/CNM: Cejas ligeramente levantadas, expresión de ruego o solicitud formal, ligero movimiento del torso hacia adelante.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "porfavor.gif",
+        "url": "media/s_mul9v9e1_bfbngg.gif"
+      },
+      "createdAt": 1790601444937,
+      "updatedAt": 1790601444937
+    },
+    {
+      "id": "s_mula01yr_63k09i",
+      "nombre": "Hay / Estar / Tener",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa plana con los dedos extendidos y juntos (configuración \"B\").\nO (Orientación): Palma orientada hacia abajo.\nU (Ubicación): Espacio neutro (frente al pecho).\nM (Movimiento): LINEAL DESCENDENTE (movimiento rectilíneo, corto y firme hacia abajo, marcando presencia o posición en el espacio).\nEF/CNM: Neutra, o leve asentimiento con la cabeza.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "hayestartener.gif",
+        "url": "media/s_mula01yr_63k09i.gif"
+      },
+      "createdAt": 1790601668595,
+      "updatedAt": 1790601668595
+    },
+    {
+      "id": "s_mula1fkb_wigafs",
+      "nombre": "No hay / No estar / No tener",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Igual a \"Estar\" (Mano plana con dedos juntos) o ambas manos planas abiertas.\nO (Orientación): Palma hacia abajo.\nU (Ubicación): Espacio neutro.\nM (Movimiento): El mismo movimiento descendente firme de \"Estar\" (o a veces un movimiento hacia afuera abriendo las manos como diciendo \"no hay\").\nEF/CNM: (CRUCIAL) Fuerte movimiento de negación con la cabeza. La ausencia se marca principalmente con el gesto del rostro (cejas levantadas o fruncidas, y comisuras hacia abajo).",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "nohaytenerestar.gif",
+        "url": "media/s_mula1fkb_wigafs.gif"
+      },
+      "createdAt": 1790601732875,
+      "updatedAt": 1790601732875
+    },
+    {
+      "id": "s_mula20e8_91ute5",
+      "nombre": "Aprender",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Seña bimanual. Mano pasiva plana (representando un libro o papel). Mano activa abierta (configuración \"5\") que se cierra en \"capullo\" (todas las yemas juntas).\nO (Orientación): Palma pasiva hacia arriba. Palma activa hacia abajo sobre la mano pasiva, y luego gira hacia el cuerpo.\nU (Ubicación): Desde la mano pasiva hacia la frente o sien.\nM (Movimiento): EXTRACCIÓN (la mano activa hace el gesto de agarrar algo de la palma pasiva, cerrando los dedos, y lo lleva hacia la cabeza, simbolizando tomar la información e incorporarla a la mente).\nEF/CNM: Expresión de concentración.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "aprender.gif",
+        "url": "media/s_mula20e8_91ute5.gif"
+      },
+      "createdAt": 1790601759872,
+      "updatedAt": 1790601759872
+    },
+    {
+      "id": "s_mula2ec6_2lkzo9",
+      "nombre": "Gustar",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa plana con los dedos juntos.\nO (Orientación): Palma orientada hacia el cuerpo.\nU (Ubicación): Centro del pecho.\nM (Movimiento): CIRCULAR (la mano frota suavemente el pecho con movimientos circulares continuos).\nEF/CNM: Expresión facial de agrado, sonrisa, leve asentimiento.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "gustar.gif",
+        "url": "media/s_mula2ec6_2lkzo9.gif"
+      },
+      "createdAt": 1790601777942,
+      "updatedAt": 1790601777942
+    },
+    {
+      "id": "s_mula2wo2_a3y4py",
+      "nombre": "No gustar",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa plana con los dedos juntos.\nO (Orientación): Palma orientada hacia el cuerpo.\nU (Ubicación): Centro del pecho.\nM (Movimiento): El mismo movimiento circular de frotar el pecho (en algunas variantes termina separando bruscamente la mano hacia afuera).\nEF/CNM: (CRUCIAL) Gesto de desagrado, ceño fruncido y un marcado movimiento de negación con la cabeza.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "nogustar.gif",
+        "url": "media/s_mula2wo2_a3y4py.gif"
+      },
+      "createdAt": 1790601801698,
+      "updatedAt": 1790601801698
+    },
+    {
+      "id": "s_mula3hyz_8tagun",
+      "nombre": "Viajar",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Mano activa con los dedos índice y medio extendidos y ligeramente separados (configuración \"V\"). El resto de los dedos cerrados.\nO (Orientación): Palma hacia abajo o hacia el lateral interno.\nU (Ubicación): Espacio neutro frente al torso.\nM (Movimiento): ONDULATORIO O LINEAL LARGO (la mano avanza hacia adelante alejándose del cuerpo, trazando una línea curva o zig-zag, como siguiendo el recorrido de un camino largo).\nEF/CNM: Neutra o mirada siguiendo la mano.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "viajar.gif",
+        "url": "media/s_mula3hyz_8tagun.gif"
+      },
+      "createdAt": 1790601829307,
+      "updatedAt": 1790601829307
+    },
+    {
+      "id": "s_mula4ifl_bkpkut",
+      "nombre": "Pasear",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Ambas manos con el dedo índice extendido apuntando hacia abajo (los demás dedos cerrados).\nO (Orientación): Palmas enfrentadas (mirándose entre sí).\nU (Ubicación): Espacio neutro a la altura del vientre o cintura.\nM (Movimiento): CIRCULAR ALTERNADO (las manos realizan movimientos circulares en el aire, como si los dedos fueran un par de piernas caminando relajadamente sin un destino fijo).\nEF/CNM: Expresión relajada, placentera, movimiento ligero del torso.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "pasear.gif",
+        "url": "media/s_mula4ifl_bkpkut.gif"
+      },
+      "createdAt": 1790601876561,
+      "updatedAt": 1790601876561
+    },
+    {
+      "id": "s_mula5l93_v4lfz4",
+      "nombre": "Escuela",
+      "categoria": "Expresiones",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Ambas manos con el dedo índice extendido (el pulgar también suele quedar visible apuntando hacia arriba).\nO (Orientación): Palmas orientadas hacia el cuerpo.\nU (Ubicación): Desde las clavículas/cuello hasta el centro del pecho.\nM (Movimiento): DESCENDENTE PARALELO (los índices tocan la zona del cuello de la ropa y descienden trazando dos líneas verticales paralelas por el pecho. Simboliza el contorno del cuello y el cierre frontal de un delantal o guardapolvo escolar).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "escuela.gif",
+        "url": "media/s_mula5l93_v4lfz4.gif"
+      },
+      "createdAt": 1790601926871,
+      "updatedAt": 1790601926871
+    },
+    {
+      "id": "s_mula6fl3_l1dlh1",
+      "nombre": "Querer",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Ambas manos con los dedos separados y ligeramente flexionados en forma de \"garra\" suelta.\nO (Orientación): Palmas orientadas hacia arriba.\nU (Ubicación): Espacio neutro, alejadas del cuerpo.\nM (Movimiento): RETRACCIÓN (las manos se mueven juntas hacia el cuerpo, tirando hacia el pecho o estómago mientras los dedos se encogen levemente, simulando atraer hacia uno mismo algo que se desea).\nEF/CNM: Neutra o leve asentimiento.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "querer.gif",
+        "url": "media/s_mula6fl3_l1dlh1.gif"
+      },
+      "createdAt": 1790601966183,
+      "updatedAt": 1790601966183
+    },
+    {
+      "id": "s_mula978s_z7gu18",
+      "nombre": "Alumno",
+      "categoria": "Personas",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Seña compuesta en dos partes. Primero (Estudiar): Ambas manos planas con dedos separados. Segundo (Persona): Ambas manos planas con dedos juntos.\nO (Orientación): Primero: Palmas frente a frente o hacia el rostro. Segundo: Palmas enfrentadas.\nU (Ubicación): Primero: Frente al rostro. Segundo: Frente al pecho.\nM (Movimiento): SECUENCIAL. Primero los dedos se agitan frente a los ojos (seña de estudiar). Luego, las manos planas descienden paralelas desde los hombros hacia abajo (marcando el contorno o la figura de una persona).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "alumno.gif",
+        "url": "media/s_mula978s_z7gu18.gif"
+      },
+      "createdAt": 1790602095340,
+      "updatedAt": 1790602095340
+    },
+    {
+      "id": "s_mulajks3_3hl81e",
+      "nombre": "Clase / Curso",
+      "categoria": "Expresiones",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Ambas manos adoptan la forma de la letra \"C\" (dedos semicurvados enfrentando al pulgar).\nO (Orientación): Palmas hacia el frente (iniciando) y giran hacia el cuerpo.\nU (Ubicación): Espacio neutro frente al pecho.\nM (Movimiento): ARCO HACIA AFUERA Y ADENTRO (las manos inician juntas tocándose por los pulgares e índices, luego se separan trazando un semicírculo horizontal hacia afuera y terminan tocándose por los meñiques cerca del cuerpo, abarcando visualmente al grupo de personas).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "clase.gif",
+        "url": "media/s_mulajks3_3hl81e.gif"
+      },
+      "createdAt": 1790602579443,
+      "updatedAt": 1790602579443
+    },
+    {
+      "id": "s_mulazqgb_kkvgja",
+      "nombre": "Colectivo",
+      "categoria": "Objetos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Ambas manos cerradas en puño (configuración \"S\" o \"A\").\nO (Orientación): Palmas hacia abajo o en diagonal.\nU (Ubicación): Espacio neutro frente al torso (a cierta distancia, a la altura de la cintura/pecho inferior).\nM (Movimiento): ROTACIÓN SIMULTÁNEA (las manos simulan sostener un volante grande y horizontal —típico de un colectivo o autobús— y realizan un movimiento de giro de lado a lado o inclinándolo).\nEF/CNM: Neutra, a veces se acompaña inflando levemente las mejillas.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "colectivo.gif",
+        "url": "media/s_mulazqgb_kkvgja.gif"
+      },
+      "createdAt": 1790603333291,
+      "updatedAt": 1790603333291
+    },
+    {
+      "id": "s_mulb0d1k_bsyx5n",
+      "nombre": "Trabajar",
+      "categoria": "Verbos",
+      "clase": "Clase 6",
+      "fecha": "2026-09-28",
+      "descripcion": "C (Configuración): Ambas manos cerradas en puño (configuración \"A\" o \"S\").\nO (Orientación): Mano pasiva con la palma (dentro del puño) hacia abajo. Mano activa con la palma hacia abajo o hacia el lateral.\nU (Ubicación): Espacio neutro frente al cuerpo.\nM (Movimiento): CONTACTO REPETIDO (la mano activa golpea un par de veces con la base del puño o la muñeca sobre el dorso de la muñeca de la mano pasiva).\nEF/CNM: Neutra.",
+      "notas": "",
+      "fuente": "Clase 6",
+      "media": {
+        "type": "image/gif",
+        "name": "trabajar.gif",
+        "url": "media/s_mulb0d1k_bsyx5n.gif"
+      },
+      "createdAt": 1790603362568,
+      "updatedAt": 1790603362568
+    },
+    {
+      "id": "s_mw0188jd_1lmj8l",
+      "nombre": "Familia",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "familia.gif",
+        "url": "media/s_mw0188jd_1lmj8l.gif"
+      },
+      "createdAt": 1793670708793,
+      "updatedAt": 1793670708793
+    },
+    {
+      "id": "s_mw01a2ls_bhvx08",
+      "nombre": "Mamá",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "mama.gif",
+        "url": "media/s_mw01a2ls_bhvx08.gif"
+      },
+      "createdAt": 1793670794416,
+      "updatedAt": 1793670794416
+    },
+    {
+      "id": "s_mw01dxej_z5q4l4",
+      "nombre": "Papá",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "papa.gif",
+        "url": "media/s_mw01dxej_z5q4l4.gif"
+      },
+      "createdAt": 1793670974299,
+      "updatedAt": 1793670974299
+    },
+    {
+      "id": "s_mw01fmhm_q9b58e",
+      "nombre": "Hijo/a",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "hijo.gif",
+        "url": "media/s_mw01fmhm_q9b58e.gif"
+      },
+      "createdAt": 1793671053466,
+      "updatedAt": 1793671053466
+    },
+    {
+      "id": "s_mw01g7ix_2nk1l6",
+      "nombre": "Hermano/a",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "hermano.gif",
+        "url": "media/s_mw01g7ix_2nk1l6.gif"
+      },
+      "createdAt": 1793671080729,
+      "updatedAt": 1793671080729
+    },
+    {
+      "id": "s_mw01gnnh_0qdb55",
+      "nombre": "Sobrino/a",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "sobrino.gif",
+        "url": "media/s_mw01gnnh_0qdb55.gif"
+      },
+      "createdAt": 1793671101629,
+      "updatedAt": 1793671101629
+    },
+    {
+      "id": "s_mw01ho1a_f69myz",
+      "nombre": "Tío/a",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "tio.gif",
+        "url": "media/s_mw01ho1a_f69myz.gif"
+      },
+      "createdAt": 1793671148782,
+      "updatedAt": 1793671148782
+    },
+    {
+      "id": "s_mw01iv9s_mqaojj",
+      "nombre": "Primo/a",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "primo.gif",
+        "url": "media/s_mw01iv9s_mqaojj.gif"
+      },
+      "createdAt": 1793671204816,
+      "updatedAt": 1793671204816
+    },
+    {
+      "id": "s_mw01jkbj_lc56qu",
+      "nombre": "Abuelo/a",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "abuelo.gif",
+        "url": "media/s_mw01jkbj_lc56qu.gif"
+      },
+      "createdAt": 1793671237279,
+      "updatedAt": 1793671237279
+    },
+    {
+      "id": "s_mw01k6f3_rgrpvp",
+      "nombre": "Niños",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "ninos.gif",
+        "url": "media/s_mw01k6f3_rgrpvp.gif"
+      },
+      "createdAt": 1793671265919,
+      "updatedAt": 1793671265919
+    },
+    {
+      "id": "s_mw01kub3_jenb2l",
+      "nombre": "Nieto/a",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "nieto.gif",
+        "url": "media/s_mw01kub3_jenb2l.gif"
+      },
+      "createdAt": 1793671296879,
+      "updatedAt": 1793671296879
+    },
+    {
+      "id": "s_mw01lfgy_o6z5me",
+      "nombre": "Cuñado/a",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "cunado.gif",
+        "url": "media/s_mw01lfgy_o6z5me.gif"
+      },
+      "createdAt": 1793671324306,
+      "updatedAt": 1793671324306
+    },
+    {
+      "id": "s_mw01m95y_b6ln5x",
+      "nombre": "Padrino",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "padrino.gif",
+        "url": "media/s_mw01m95y_b6ln5x.gif"
+      },
+      "createdAt": 1793671362790,
+      "updatedAt": 1793671362790
+    },
+    {
+      "id": "s_mw01mpkt_27jvhy",
+      "nombre": "Ahijado/a",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "ahijado.gif",
+        "url": "media/s_mw01mpkt_27jvhy.gif"
+      },
+      "createdAt": 1793671384061,
+      "updatedAt": 1793671384061
+    },
+    {
+      "id": "s_mw01ne0x_n5omn9",
+      "nombre": "Mellizos",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "mellizos.gif",
+        "url": "media/s_mw01ne0x_n5omn9.gif"
+      },
+      "createdAt": 1793671415745,
+      "updatedAt": 1793671415745
+    },
+    {
+      "id": "s_mw01prsk_jb63sn",
+      "nombre": "Gemelos",
+      "categoria": "Familia",
+      "clase": "Clase 7",
+      "fecha": "2026-10-05",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 7",
+      "media": {
+        "type": "image/gif",
+        "name": "gemelos.gif",
+        "url": "media/s_mw01prsk_jb63sn.gif"
+      },
+      "createdAt": 1793671526900,
+      "updatedAt": 1793671526900
+    },
+    {
+      "id": "s_mw01rmv3_rdenop",
+      "nombre": "Estado civil",
+      "categoria": "Estado civil",
+      "clase": "Clase 8",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 8",
+      "media": {
+        "type": "image/gif",
+        "name": "estado_civil.gif",
+        "url": "media/s_mw01rmv3_rdenop.gif"
+      },
+      "createdAt": 1793671613823,
+      "updatedAt": 1793671613823
+    },
+    {
+      "id": "s_mw01t5vl_htluu3",
+      "nombre": "Novio",
+      "categoria": "Estado civil",
+      "clase": "Clase 8",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 8",
+      "media": {
+        "type": "image/gif",
+        "name": "novio.gif",
+        "url": "media/s_mw01t5vl_htluu3.gif"
+      },
+      "createdAt": 1793671685121,
+      "updatedAt": 1793671685121
+    },
+    {
+      "id": "s_mw01tub7_b7o1es",
+      "nombre": "Casado/Esposo",
+      "categoria": "Estado civil",
+      "clase": "Clase 8",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 8",
+      "media": {
+        "type": "image/gif",
+        "name": "casado_esposo.gif",
+        "url": "media/s_mw01tub7_b7o1es.gif"
+      },
+      "createdAt": 1793671716787,
+      "updatedAt": 1793671716787
+    },
+    {
+      "id": "s_mw01ucnc_5qsun1",
+      "nombre": "Separado",
+      "categoria": "Estado civil",
+      "clase": "Clase 8",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 8",
+      "media": {
+        "type": "image/gif",
+        "name": "separado.gif",
+        "url": "media/s_mw01ucnc_5qsun1.gif"
+      },
+      "createdAt": 1793671740552,
+      "updatedAt": 1793671740552
+    },
+    {
+      "id": "s_mw01urf0_m86b15",
+      "nombre": "Divorciado",
+      "categoria": "Estado civil",
+      "clase": "Clase 8",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 8",
+      "media": {
+        "type": "image/gif",
+        "name": "divorciado.gif",
+        "url": "media/s_mw01urf0_m86b15.gif"
+      },
+      "createdAt": 1793671759692,
+      "updatedAt": 1793671759692
+    },
+    {
+      "id": "s_mw01wcqh_1pl0yn",
+      "nombre": "Juntado",
+      "categoria": "Estado civil",
+      "clase": "Clase 8",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 8",
+      "media": {
+        "type": "image/gif",
+        "name": "juntados.gif",
+        "url": "media/s_mw01wcqh_1pl0yn.gif"
+      },
+      "createdAt": 1793671833977,
+      "updatedAt": 1793671833977
+    },
+    {
+      "id": "s_mw01wuq3_ybsn5g",
+      "nombre": "Viudo",
+      "categoria": "Estado civil",
+      "clase": "Clase 8",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 8",
+      "media": {
+        "type": "image/gif",
+        "name": "viudo.gif",
+        "url": "media/s_mw01wuq3_ybsn5g.gif"
+      },
+      "createdAt": 1793671857291,
+      "updatedAt": 1793671857291
+    },
+    {
+      "id": "s_mw01xzea_83c8i6",
+      "nombre": "Comprometido",
+      "categoria": "Estado civil",
+      "clase": "Clase 8",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 8",
+      "media": {
+        "type": "image/gif",
+        "name": "comprometido.gif",
+        "url": "media/s_mw01xzea_83c8i6.gif"
+      },
+      "createdAt": 1793671910002,
+      "updatedAt": 1793671910002
+    },
+    {
+      "id": "s_mw01ypko_z3loef",
+      "nombre": "Pareja",
+      "categoria": "Estado civil",
+      "clase": "Clase 8",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 8",
+      "media": {
+        "type": "image/gif",
+        "name": "pareja.gif",
+        "url": "media/s_mw01ypko_z3loef.gif"
+      },
+      "createdAt": 1793671943928,
+      "updatedAt": 1793671943928
+    },
+    {
+      "id": "s_mw0204sg_ny14if",
+      "nombre": "Color",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 8",
+      "media": {
+        "type": "image/gif",
+        "name": "color.gif",
+        "url": "media/s_mw0204sg_ny14if.gif"
+      },
+      "createdAt": 1793672010304,
+      "updatedAt": 1793672010304
+    },
+    {
+      "id": "s_mw020m8i_nd9kt8",
+      "nombre": "Colores",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "colores.gif",
+        "url": "media/s_mw020m8i_nd9kt8.gif"
+      },
+      "createdAt": 1793672032914,
+      "updatedAt": 1793672032914
+    },
+    {
+      "id": "s_mw020zj0_9lw8b8",
+      "nombre": "Negro",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "negro.gif",
+        "url": "media/s_mw020zj0_9lw8b8.gif"
+      },
+      "createdAt": 1793672050140,
+      "updatedAt": 1793672050140
+    },
+    {
+      "id": "s_mw021u4k_1dq4hj",
+      "nombre": "Blanco",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "blanco.gif",
+        "url": "media/s_mw021u4k_1dq4hj.gif"
+      },
+      "createdAt": 1793672089796,
+      "updatedAt": 1793672089796
+    },
+    {
+      "id": "s_mw022hvg_6abxk3",
+      "nombre": "Azul",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "azul.gif",
+        "url": "media/s_mw022hvg_6abxk3.gif"
+      },
+      "createdAt": 1793672120572,
+      "updatedAt": 1793672120572
+    },
+    {
+      "id": "s_mw0239i4_4z9haw",
+      "nombre": "Rojo",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "rojo.gif",
+        "url": "media/s_mw0239i4_4z9haw.gif"
+      },
+      "createdAt": 1793672156380,
+      "updatedAt": 1793672156380
+    },
+    {
+      "id": "s_mw023wur_kj6ezq",
+      "nombre": "Violeta",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "violeta.gif",
+        "url": "media/s_mw023wur_kj6ezq.gif"
+      },
+      "createdAt": 1793672186643,
+      "updatedAt": 1793672186643
+    },
+    {
+      "id": "s_mw024dae_reqsqt",
+      "nombre": "Amarillo",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "amarillo.gif",
+        "url": "media/s_mw024dae_reqsqt.gif"
+      },
+      "createdAt": 1793672207942,
+      "updatedAt": 1793672207942
+    },
+    {
+      "id": "s_mw024nv7_qs91bh",
+      "nombre": "Naranja",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "naranja.gif",
+        "url": "media/s_mw024nv7_qs91bh.gif"
+      },
+      "createdAt": 1793672221651,
+      "updatedAt": 1793672221651
+    },
+    {
+      "id": "s_mw025bwr_irwra1",
+      "nombre": "Marrón",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "marron.gif",
+        "url": "media/s_mw025bwr_irwra1.gif"
+      },
+      "createdAt": 1793672252811,
+      "updatedAt": 1793672252811
+    },
+    {
+      "id": "s_mw025qq4_hw7hls",
+      "nombre": "Celeste",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "celeste.gif",
+        "url": "media/s_mw025qq4_hw7hls.gif"
+      },
+      "createdAt": 1793672272012,
+      "updatedAt": 1793672272012
+    },
+    {
+      "id": "s_mw026v4f_k51wva",
+      "nombre": "Gris",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "gris.gif",
+        "url": "media/s_mw026v4f_k51wva.gif"
+      },
+      "createdAt": 1793672324367,
+      "updatedAt": 1793672324367
+    },
+    {
+      "id": "s_mw027eb5_bgwkza",
+      "nombre": "Beige",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "beige.gif",
+        "url": "media/s_mw027eb5_bgwkza.gif"
+      },
+      "createdAt": 1793672349233,
+      "updatedAt": 1793672349233
+    },
+    {
+      "id": "s_mw027qap_6w7t4y",
+      "nombre": "Verde",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "verde.gif",
+        "url": "media/s_mw027qap_6w7t4y.gif"
+      },
+      "createdAt": 1793672364769,
+      "updatedAt": 1793672364769
+    },
+    {
+      "id": "s_mw0282o2_hp7hqg",
+      "nombre": "Rosa",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "rosa.gif",
+        "url": "media/s_mw0282o2_hp7hqg.gif"
+      },
+      "createdAt": 1793672380802,
+      "updatedAt": 1793672380802
+    },
+    {
+      "id": "s_mw028djg_q1qt8p",
+      "nombre": "Claro",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "claro.gif",
+        "url": "media/s_mw028djg_q1qt8p.gif"
+      },
+      "createdAt": 1793672394892,
+      "updatedAt": 1793672394892
+    },
+    {
+      "id": "s_mw028pmk_5m0l2x",
+      "nombre": "Oscuro",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "oscuro.gif",
+        "url": "media/s_mw028pmk_5m0l2x.gif"
+      },
+      "createdAt": 1793672410556,
+      "updatedAt": 1793672410556
+    },
+    {
+      "id": "s_mw0291ks_hmud31",
+      "nombre": "Brillante",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "brillante.gif",
+        "url": "media/s_mw0291ks_hmud31.gif"
+      },
+      "createdAt": 1793672426044,
+      "updatedAt": 1793672426044
+    },
+    {
+      "id": "s_mw02a42y_dq6xot",
+      "nombre": "Opaco",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "opaco.gif",
+        "url": "media/s_mw02a42y_dq6xot.gif"
+      },
+      "createdAt": 1793672475946,
+      "updatedAt": 1793672475946
+    },
+    {
+      "id": "s_mw02agpc_gwxwo7",
+      "nombre": "Fuerte",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "fuerte.gif",
+        "url": "media/s_mw02agpc_gwxwo7.gif"
+      },
+      "createdAt": 1793672492304,
+      "updatedAt": 1793672492304
+    },
+    {
+      "id": "s_mw02au6a_gwhkvm",
+      "nombre": "Suave",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "suave.gif",
+        "url": "media/s_mw02au6a_gwhkvm.gif"
+      },
+      "createdAt": 1793672509762,
+      "updatedAt": 1793672509762
+    },
+    {
+      "id": "s_mw02b6dj_4xuq6x",
+      "nombre": "Dorado",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "dorado.gif",
+        "url": "media/s_mw02b6dj_4xuq6x.gif"
+      },
+      "createdAt": 1793672525575,
+      "updatedAt": 1793672525575
+    },
+    {
+      "id": "s_mw02bjd5_op4qtn",
+      "nombre": "Plateado",
+      "categoria": "Colores",
+      "clase": "Clase 9",
+      "fecha": "2026-10-19",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "Clase 9",
+      "media": {
+        "type": "image/gif",
+        "name": "plateado.gif",
+        "url": "media/s_mw02bjd5_op4qtn.gif"
+      },
+      "createdAt": 1793672542409,
+      "updatedAt": 1793672542409
+    },
+    {
+      "id": "s_mw1azbys_arzz74",
+      "nombre": "Profesión",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Profesion.gif",
+        "url": "media/s_mw1azbys_arzz74.gif"
+      },
+      "createdAt": 1793747555668,
+      "updatedAt": 1793747555668
+    },
+    {
+      "id": "s_mw1b0i9v_crrcbb",
+      "nombre": "Profesor",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Profesor.gif",
+        "url": "media/s_mw1b0i9v_crrcbb.gif"
+      },
+      "createdAt": 1793747610499,
+      "updatedAt": 1793747610499
+    },
+    {
+      "id": "s_mw1b16bw_sqcq6t",
+      "nombre": "Doctor",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "MedicoDoctor.gif",
+        "url": "media/s_mw1b16bw_sqcq6t.gif"
+      },
+      "createdAt": 1793747641676,
+      "updatedAt": 1793747641676
+    },
+    {
+      "id": "s_mw1b2lit_k00ijr",
+      "nombre": "Abogado",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Abogado.gif",
+        "url": "media/s_mw1b2lit_k00ijr.gif"
+      },
+      "createdAt": 1793747708021,
+      "updatedAt": 1793747708021
+    },
+    {
+      "id": "s_mw1b662g_hfe02p",
+      "nombre": "Maestro",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Enfermero.gif",
+        "url": "media/s_mw1b662g_hfe02p.gif"
+      },
+      "createdAt": 1793747874616,
+      "updatedAt": 1793747874616
+    },
+    {
+      "id": "s_mw1b7ysq_uwoolr",
+      "nombre": "Portero",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Portero.gif",
+        "url": "media/s_mw1b7ysq_uwoolr.gif"
+      },
+      "createdAt": 1793747958506,
+      "updatedAt": 1793747958506
+    },
+    {
+      "id": "s_mw1b8q2a_ped3yt",
+      "nombre": "Secretaria",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Secretaria.gif",
+        "url": "media/s_mw1b8q2a_ped3yt.gif"
+      },
+      "createdAt": 1793747993842,
+      "updatedAt": 1793747993842
+    },
+    {
+      "id": "s_mw1b9pp5_kuduxd",
+      "nombre": "Plomero",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Plomero.gif",
+        "url": "media/s_mw1b9pp5_kuduxd.gif"
+      },
+      "createdAt": 1793748040025,
+      "updatedAt": 1793748040025
+    },
+    {
+      "id": "s_mw1basdi_yhrr5i",
+      "nombre": "Soldador",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Soldador.gif",
+        "url": "media/s_mw1basdi_yhrr5i.gif"
+      },
+      "createdAt": 1793748090150,
+      "updatedAt": 1793748090150
+    },
+    {
+      "id": "s_mw1bca7e_s4oa7c",
+      "nombre": "Carpintero",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Carpintero.gif",
+        "url": "media/s_mw1bca7e_s4oa7c.gif"
+      },
+      "createdAt": 1793748159914,
+      "updatedAt": 1793748159914
+    },
+    {
+      "id": "s_mw1bddom_7rdksy",
+      "nombre": "Psicologo",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Psicologo.gif",
+        "url": "media/s_mw1bddom_7rdksy.gif"
+      },
+      "createdAt": 1793748211078,
+      "updatedAt": 1793748211078
+    },
+    {
+      "id": "s_mw1be3ly_7hzzrl",
+      "nombre": "Albañil",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Albañil.gif",
+        "url": "media/s_mw1be3ly_7hzzrl.gif"
+      },
+      "createdAt": 1793748244677,
+      "updatedAt": 1793748244677
+    },
+    {
+      "id": "s_mw1besdn_7ky909",
+      "nombre": "Chofer",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Chofer.gif",
+        "url": "media/s_mw1besdn_7ky909.gif"
+      },
+      "createdAt": 1793748276779,
+      "updatedAt": 1793748276779
+    },
+    {
+      "id": "s_mw1bflmt_imshg4",
+      "nombre": "Fonoaudiologa",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Fonoaudiologo.gif",
+        "url": "media/s_mw1bflmt_imshg4.gif"
+      },
+      "createdAt": 1793748314693,
+      "updatedAt": 1793748314693
+    },
+    {
+      "id": "s_mw1bh5x4_7bhuq8",
+      "nombre": "Contador",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Contador.gif",
+        "url": "media/s_mw1bh5x4_7bhuq8.gif"
+      },
+      "createdAt": 1793748387640,
+      "updatedAt": 1793748387640
+    },
+    {
+      "id": "s_mw1bmws4_fbg8oj",
+      "nombre": "Mucama",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Mucama.gif",
+        "url": "media/s_mw1bmws4_fbg8oj.gif"
+      },
+      "createdAt": 1793748655732,
+      "updatedAt": 1793748655732
+    },
+    {
+      "id": "s_mw1bnm4b_2kld0q",
+      "nombre": "Pintor",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Pintor.gif",
+        "url": "media/s_mw1bnm4b_2kld0q.gif"
+      },
+      "createdAt": 1793748688571,
+      "updatedAt": 1793748688571
+    },
+    {
+      "id": "s_mw1boat6_pxi6b2",
+      "nombre": "Pintor Artistico",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-03",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Pintor Artistico .gif",
+        "url": "media/s_mw1boat6_pxi6b2.gif"
+      },
+      "createdAt": 1793748720570,
+      "updatedAt": 1793748720570
+    },
+    {
+      "id": "s_mw1dwkgj_s0a02l",
+      "nombre": "Chef",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-04",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Chef.gif",
+        "url": "media/s_mw1dwkgj_s0a02l.gif"
+      },
+      "createdAt": 1793752465555,
+      "updatedAt": 1793752465555
+    },
+    {
+      "id": "s_mw1dxs5x_ohd0df",
+      "nombre": "Mozo",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-04",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Mozo.gif",
+        "url": "media/s_mw1dxs5x_ohd0df.gif"
+      },
+      "createdAt": 1793752522197,
+      "updatedAt": 1793752522197
+    },
+    {
+      "id": "s_mw1dz0j3_21z8rv",
+      "nombre": "Peluquero",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-04",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Peluquero.gif",
+        "url": "media/s_mw1dz0j3_21z8rv.gif"
+      },
+      "createdAt": 1793752579695,
+      "updatedAt": 1793752579695
+    },
+    {
+      "id": "s_mw1e0f10_6f08tw",
+      "nombre": "Dibujante",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-04",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Dibujante.gif",
+        "url": "media/s_mw1e0f10_6f08tw.gif"
+      },
+      "createdAt": 1793752645140,
+      "updatedAt": 1793752645140
+    },
+    {
+      "id": "s_mw1e1ett_t1ocni",
+      "nombre": "Bombero",
+      "categoria": "Profesión",
+      "clase": "Ultima Clase",
+      "fecha": "2026-11-04",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Bombero.gif",
+        "url": "media/s_mw1e1ett_t1ocni.gif"
+      },
+      "createdAt": 1793752691537,
+      "updatedAt": 1793752691537
+    },
+    {
+      "id": "s_mw1e1x4q_fm30xp",
+      "nombre": "Policia",
+      "categoria": "Profesión",
+      "clase": "Sin clase",
+      "fecha": "2026-11-04",
+      "descripcion": "",
+      "notas": "",
+      "fuente": "",
+      "media": {
+        "type": "image/gif",
+        "name": "Policia.gif",
+        "url": "media/s_mw1e1x4q_fm30xp.gif"
+      },
+      "createdAt": 1793752715258,
+      "updatedAt": 1793752715258
+    }
+  ]
+}

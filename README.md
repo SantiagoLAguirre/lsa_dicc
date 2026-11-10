@@ -125,6 +125,36 @@ un dispositivo a otro usá la copia de seguridad, en la pantalla **Inicio**:
 La importación combina por identificador: si volvés a importar el mismo archivo
 no se generan duplicados. Conviené exportar una copia cada tanto como respaldo.
 
+## Diccionario publicado en el sitio (carga permanente)
+
+Además de los datos locales de cada navegador, el sitio publica un
+**diccionario permanente** que se carga automáticamente al abrir la página:
+
+- `data/diccionario.json` — las señas con sus textos (liviano, ~127 KB).
+- `media/` — cada GIF/PNG/video como archivo suelto (se cargan con lazy loading).
+
+Al iniciar, `js/remote.js` descarga `data/diccionario.json` y lo importa la
+primera vez o cuando la copia publicada cambia (control por `exportedAt`).
+Así cualquier visitante ve el diccionario completo sin importar nada, y las
+señas locales que agregues conviven con las publicadas.
+
+### Cómo actualizar el diccionario publicado
+
+1. En la app, **Inicio → Exportar copia** (archivo `lsa-copia-*.json`).
+2. En la raíz del repositorio, ejecutá:
+
+   ```
+   node scripts/build-remote.js "ruta/al/lsa-copia-XXXX.json"
+   ```
+
+   Eso regenera `data/diccionario.json` y agrega a `media/` solo los medios
+   nuevos (los existentes se reutilizan).
+3. Commiteá y pusheá: GitHub Pages se redpliega solo en unos minutos.
+
+> Nota: la copia exportada pesa cientos de MB porque embebe los medios en
+> base64. Nunca la subas al repositorio (GitHub rechaza archivos de más de
+> 100 MB); usala solo como entrada del script.
+
 > ¿Querés sincronización automática en la nube? Eso requiere agregar un servicio
 > externo (por ejemplo Firebase o Supabase) con inicio de sesión; es un proyecto
 > mayor. La copia de seguridad cubre el caso de uso personal sin costo ni cuentas.

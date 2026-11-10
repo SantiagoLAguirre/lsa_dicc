@@ -47,7 +47,10 @@ LSA.Store = (function () {
 
   /* ---------- Object URLs para medios ---------- */
   function mediaURL(sign) {
-    if (!sign || !sign.media || !sign.media.blob) return null;
+    if (!sign || !sign.media) return null;
+    // Medio publicado en el sitio (archivo en media/): URL directa.
+    if (sign.media.url) return sign.media.url;
+    if (!sign.media.blob) return null;
     if (_urlCache.has(sign.id)) return _urlCache.get(sign.id);
     const url = URL.createObjectURL(sign.media.blob);
     _urlCache.set(sign.id, url);
@@ -184,6 +187,14 @@ LSA.Store = (function () {
     for (let i = 0; i < bin.length; i++) arr[i] = bin.charCodeAt(i);
     return new Blob([arr], { type: type || 'application/octet-stream' });
   }
+  // Un medio puede venir como base64 (copia de seguridad local)
+  // o como URL (diccionario publicado en el sitio, media/).
+  function normalizeMedia(m) {
+    if (!m) return null;
+    if (m.data) return { type: m.type, name: m.name, blob: base64ToBlob(m.data, m.type) };
+    if (m.url) return { type: m.type, name: m.name, url: m.url };
+    return null;
+  }
 
   // Genera un objeto serializable con todas las señas (media → base64).
   async function exportData() {
@@ -193,6 +204,9 @@ LSA.Store = (function () {
       let media = null;
       if (s.media && s.media.blob) {
         media = { type: s.media.type, name: s.media.name, data: await blobToBase64(s.media.blob) };
+      } else if (s.media && s.media.url) {
+        // Medio remoto: se exporta con su URL en vez de base64.
+        media = { type: s.media.type, name: s.media.name, url: s.media.url };
       }
       out.push(Object.assign({}, s, { media }));
     }
@@ -210,9 +224,7 @@ LSA.Store = (function () {
       for (const c of payload.categories) await ensureCategory(c);
     }
     const signs = payload.signs.map((s) => Object.assign({}, s, {
-      media: (s.media && s.media.data)
-        ? { type: s.media.type, name: s.media.name, blob: base64ToBlob(s.media.data, s.media.type) }
-        : null,
+      media: normalizeMedia(s.media),
     }));
     signs.forEach((s) => revokeURL(s.id));
     await LSA.DB.bulkPut(signs);
